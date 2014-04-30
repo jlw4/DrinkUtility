@@ -24,7 +24,7 @@ public class DBUtility {
 
     public static void main(String[] args) {
         //List<String> drinks = getDrinkNames();
-        scrapeGoodCocktails(1501, 2000, 4);
+        scrapeGoodCocktails(1, 100, 1);
     }
     
     /**
