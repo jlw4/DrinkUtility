@@ -18,11 +18,11 @@ import java.util.Scanner;
  * @author avalanche
  *
  */
-public class DBUtility {
+public class ScrapeRecipes {
 
     public static void main(String[] args) {
         //List<String> drinks = getDrinkNames();
-        scrapeGoodCocktails(1, 100, 1);
+        scrapeGoodCocktails(1, 2950, 1);
     }
     
     /**
