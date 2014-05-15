@@ -2,7 +2,7 @@ Screwdriver
 2 oz. Vodka
 Orange Juice
 Garnish: No Garnish
-Pour vodka into a glass with ice and fill it with orange juice.
+Pour vodka into a glass with ice and fill it with orange juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=777'>Cordless Screwdriver, <a href='?drinkID=640'>Rum Screwdriver<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=8'>Harvey Wallbanger, <a href='?drinkID=7'>Madras, <a href='?drinkID=1332'>Vodka Sunrise
 
 Cape Cod
 2 oz. Vodka
@@ -28,13 +28,13 @@ Greyhound
 2 oz. Gin
 Grapefruit Juice
 Garnish: No Garnish
-Pour vodka into a glass with ice and fill it with grapefruit juice.
+Pour vodka into a glass with ice and fill it with grapefruit juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1693'>Dirty Dog, <a href='?drinkID=1625'>Fuzzy Greyhound, <a href='?drinkID=1403'>Racing Greyhound, <a href='?drinkID=6'>Salty Dog
 
 Salty Dog
 2 oz. Gin
 Grapefruit Juice
 Garnish: Salt
-Pour vodka into a glass with ice and salted rim. Fill it with grapefruit juice.
+Pour vodka into a glass with ice and salted rim. Fill it with grapefruit juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=5'>Greyhound, <a href='?drinkID=1403'>Racing Greyhound, <a href='?drinkID=1841'>Salty Chihuahua
 
 Madras
 2 oz. Vodka
@@ -71,7 +71,7 @@ Long Island Iced Tea
 Sweet & Sour Mix
 Splash of Cola
 Garnish: Lemon Wedge
-Pour vodka, gin, rum and triple sec into a glass with ice. Almost fill it with sweet and sour. Add the splash of cola on the top.
+Pour vodka, gin, rum and triple sec into a glass with ice. Almost fill it with sweet and sour. Add the splash of cola on the top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1093'>Top Shelf Long Island Iced Tea
 
 Long Beach Iced Tea
 1/2 oz. Vodka
@@ -91,7 +91,7 @@ Adios Mother Fucker (A.M.F.)
 Sweet & Sour Mix
 Float of Blue Curacao
 Garnish: Lemon Wedge and Cherry
-Pour the vodka, gin, rum, and triple sec into a glass with ice. Fill with sweet and sour and add the float of Blue Curacao.CommentsYou could add 1/2 oz of tequila if you like.
+Pour the vodka, gin, rum, and triple sec into a glass with ice. Fill with sweet and sour and add the float of Blue Curacao.CommentsYou could add 1/2 oz of tequila if you like.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1293'>Blue Motorcycle
 
 Pina Colada
 2 oz. Rum (Light)
@@ -111,34 +111,34 @@ Black Russian
 1 1/2 oz. Vodka
 1 oz. Coffee Liqueur
 Garnish: No Garnish
-Pour vodka and coffee liqueur into a glass with ice.
+Pour vodka and coffee liqueur into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1123'>Green Russian, <a href='?drinkID=17'>White Russian<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=18'>Brave Bull, <a href='?drinkID=45'>Dirty Mother
 
 White Russian
 1 1/2 oz. Vodka
 1 oz. Coffee Liqueur
 Cream / Half & Half
 Garnish: No Garnish
-Pour vodka and coffee liqueur into a glass with ice and add the cream or milk.
+Pour vodka and coffee liqueur into a glass with ice and add the cream or milk.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=16'>Black Russian, <a href='?drinkID=1123'>Green Russian<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=34'>Colorado Bulldog
 
 Brave Bull
 1 1/2 oz. Tequila
 1 oz. Coffee Liqueur
 Garnish: No Garnish
-Pour the tequila and coffee liqueur into a glass with ice.
+Pour the tequila and coffee liqueur into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1233'>Gentle Bull, <a href='?drinkID=1324'>White Bull<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=16'>Black Russian, <a href='?drinkID=45'>Dirty Mother
 
 Margarita
 1 1/2 oz. Tequila
 1/2 oz. Triple Sec
 Margarita Mix
 Garnish: Lime Wedge or Lime Wheel
-Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and triple sec into the glass with ice. Fill it with sweet and sour mix or margarita mix.
+Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and triple sec into the glass with ice. Fill it with sweet and sour mix or margarita mix.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=22'>Cadillac Margarita, <a href='?drinkID=20'>Frozen Margarita
 
 Frozen Margarita
 1 1/2 oz. Tequila
 1/2 oz. Triple Sec
 Margarita Mix
 Garnish: Lime Wedge
-Rub rim of a margarita glass with a lime and dip it into kosher salt. Blend all ingredients with ice. Pour into the salted margarita glass.
+Rub rim of a margarita glass with a lime and dip it into kosher salt. Blend all ingredients with ice. Pour into the salted margarita glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=22'>Cadillac Margarita, <a href='?drinkID=19'>Margarita
 
 Strawberry Margarita
 1 1/2 oz. Tequila
@@ -154,7 +154,7 @@ Cadillac Margarita
 Margarita Mix
 Float of Grand Marnier® Orange Liqueur
 Garnish: Lime Wedge or Lime Wheel
-Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and Cointreau into the glass with ice. Fill it with sweet and sour mix or margarita mix. Add the float of Grand Marnier on top.
+Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and Cointreau into the glass with ice. Fill it with sweet and sour mix or margarita mix. Add the float of Grand Marnier on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=19'>Margarita, <a href='?drinkID=1390'>Purple Cadillac Margarita
 
 Blue Margarita
 1 1/2 oz. Tequila
@@ -205,19 +205,19 @@ Shirley Temple
 Lemon-Lime Soda
 1/2 oz. Grenadine
 Garnish: Cherry
-Pour lemon-lime soda in a glass with ice. Add grenadine and stir.
+Pour lemon-lime soda in a glass with ice. Add grenadine and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1907'>Passionate Shirley Temple, <a href='?drinkID=1549'>Slutty Shirley Temple<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=31'>Roy Rogers
 
 Roy Rogers
 Cola
 1/2 oz. Grenadine
 Garnish: Cherry
-Pour cola in a glass with ice. Add grenadine and stir.
+Pour cola in a glass with ice. Add grenadine and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1906'>Passionate Roy Rogers<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=30'>Shirley Temple
 
 Arnold Palmer
 Iced Tea
 Lemonade
 Garnish: Lemon Wedge
-Pour half of iced tea and half of lemonade into a glass with ice.
+Pour half of iced tea and half of lemonade into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=2146'>Mexican Golfer
 
 Lemon Drop
 3 oz. Citrus Vodka
@@ -233,7 +233,7 @@ Colorado Bulldog
 Milk
 Splash of Cola
 Garnish: No Garnish
-Pour vodka and coffee liqueur into a glass with ice and add the cream or milk and the splash of cola.
+Pour vodka and coffee liqueur into a glass with ice and add the cream or milk and the splash of cola.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=17'>White Russian
 
 Alabama Slammer
 1 oz. Southern Comfort®
@@ -308,7 +308,7 @@ Dirty Mother
 1 1/2 oz. Brandy
 1/2 oz. Coffee Liqueur
 Garnish: No Garnish
-Pour ingredients into a glass with ice.
+Pour ingredients into a glass with ice.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=16'>Black Russian, <a href='?drinkID=18'>Brave Bull, <a href='?drinkID=1694'>Separator
 
 Dirty White Mother
 1 1/2 oz. Brandy
@@ -426,7 +426,7 @@ Red Headed Slut
 1 oz. Peach Schnapps
 1/2 oz. Cranberry Juice
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=2141'>Lindsay Lohan
 
 Scooby Snack
 1 oz. Melon Liqueur
@@ -462,14 +462,14 @@ Manhattan
 3 1/2 oz. Whiskey
 1/2 oz. Vermouth (Sweet)
 Garnish: Cherry or Lemon Twist
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=546'>Manhattan (Dry), <a href='?drinkID=68'>Perfect Manhattan, <a href='?drinkID=1885'>Southern Comfort Manhattan
 
 Perfect Manhattan
 3 oz. Whiskey
 1/2 oz. Vermouth (Sweet)
 1/2 oz. Vermouth (Dry)
 Garnish: Cherry or Lemon Twist
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=67'>Manhattan, <a href='?drinkID=546'>Manhattan (Dry)
 
 Bloody Mary
 2 oz. Vodka
@@ -668,7 +668,7 @@ Cosmopolitan
 Dash of Lime Juice
 Splash of Cranberry Juice
 Garnish: Lime Wedge
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1371'>Blue Cosmopolitan, <a href='?drinkID=1310'>White Cosmopolitan
 
 Cuba Libre
 2 oz. Rum (Light)
@@ -695,7 +695,7 @@ Mudslide
 2 oz. Irish Cream
 2 oz. Coffee Liqueur
 Garnish: Whipped Cream (Optional)
-Pour all ingredients into a blender with ice. Blend until smooth and pour into a glass.CommentsUse a premium vodka for this drink.
+Pour all ingredients into a blender with ice. Blend until smooth and pour into a glass.CommentsUse a premium vodka for this drink.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1514'>Malibu Slide
 
 Oatmeal Cookie
 1/2 oz. Jägermeister®
@@ -711,7 +711,7 @@ Toasted Almond
 1 oz. Amaretto
 Milk
 Garnish: No Garnish
-Pour the coffee liqueur and amaretto into a glass with ice. Fill it with cream or milk.
+Pour the coffee liqueur and amaretto into a glass with ice. Fill it with cream or milk.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1816'>Roasted Toasted Almond
 
 Ginger Ale (Substitute)
 Lemon-Lime Soda
@@ -723,7 +723,7 @@ Jager Bomb
 1 Shot of Jägermeister®
 Red Bull® Energy Drink
 Garnish: No Garnish
-Fill a glass half way with Red Bull (no ice). Drop the shot of Jägermeister into the glass with Red Bull.CommentsMake sure the Jägermeister and the Red Bull are cold.
+Fill a glass half way with Red Bull (no ice). Drop the shot of Jägermeister into the glass with Red Bull.CommentsMake sure the Jägermeister and the Red Bull are cold.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1747'>Jager And Red Bull, <a href='?drinkID=1748'>Jager Bomb (Military Style)
 
 Mojito
 1 1/2 oz. Rum (Light)
@@ -740,7 +740,7 @@ Nuts And Berries
 1 oz. Cream / Half & Half
 1 oz. Vodka (Optional)
 Garnish: Berries (Optional)
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1397'>Peanut Butter And Jelly
 
 Three Wise Men
 1/2 oz. Jack Daniel's® Tennessee Whiskey
@@ -760,14 +760,14 @@ Nutty Irishman
 1 oz. Hazelnut Liqueur
 1 oz. Cream / Half & Half
 Garnish: No Garnish
-Pour ingredients into a glass with ice.
+Pour ingredients into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=109'>Nutty Irishman Coffee<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1466'>Nutty Professor
 
 Nutty Irishman Coffee
 1 oz. Irish Cream
 1 oz. Hazelnut Liqueur
 Hot Coffee
 Garnish: Whipped Cream and/or Chocolate Shavings
-Pour Irish cream and hazelnut liqueur into an Irish coffee mug. Fill it with coffee.
+Pour Irish cream and hazelnut liqueur into an Irish coffee mug. Fill it with coffee.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=108'>Nutty Irishman
 
 June Bug
 1 oz. Coconut Rum
@@ -814,7 +814,7 @@ Pour all the rums into a glass with ice. Fill the glass with equal parts of the 
 Cranberry Juice
 Pineapple Juice
 Garnish: Cherry
-Pour all the liqueurs into a glass with ice. Fill it with cranberry juice and pineapple juice.
+Pour all the liqueurs into a glass with ice. Fill it with cranberry juice and pineapple juice.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1361'>Mike's Hawaiian Punch
 
 Smith And Kearns
 1 oz. Coffee Liqueur
@@ -855,20 +855,20 @@ PB & J
 1 oz. Hazelnut Liqueur
 1 oz. Raspberry Liqueur
 Garnish: No Garnish
-Pour ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1833'>PB & J Martini
 
 Pink Squirrel
 1 oz. Crème de Noyaux
 1 oz. Crème de Cacao (White)
 1 oz. Cream / Half & Half
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1234'>Brown Squirrel
 
 B & B
 1/2 oz. Bénédictine®
 1/2 oz. Brandy
 Garnish: No Garnish
-Pour the Benedictine into a cordial glass then add the Brandy on top.
+Pour the Benedictine into a cordial glass then add the Brandy on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1399'>B & C, <a href='?drinkID=1763'>Kentucky B & B
 
 Beautiful
 1 oz. Cognac
@@ -906,7 +906,7 @@ Brain Hemorrhage
 1/2 oz. Irish Cream
 2 Drops of Grenadine
 Garnish: No Garnish
-Pour the peach schnapps into a shot glass. Layer the Irish cream on top. Finally, add the drops of grenadine to the center of the drink.CommentsThe grenadine has to pass through the Irish cream. You might have to add more than 2 drops of grenadine.
+Pour the peach schnapps into a shot glass. Layer the Irish cream on top. Finally, add the drops of grenadine to the center of the drink.CommentsThe grenadine has to pass through the Irish cream. You might have to add more than 2 drops of grenadine.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1333'>Brain, <a href='?drinkID=132'>Cerebral Hemorrhage #2
 
 Brain Eraser
 1 oz. Vodka
@@ -921,7 +921,7 @@ Brandy Alexander
 1/2 oz. Crème de Cacao (Dark)
 2 oz. Cream / Half & Half
 Garnish: Nutmeg Sprinkles
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=161'>Alexander Cocktail, <a href='?drinkID=1471'>Strawberry Alexander
 
 Cement Mixer
 1 oz. Irish Cream
@@ -942,7 +942,7 @@ Cerebral Hemorrhage #2
 1/2 oz. Irish Cream
 3 Drops of Grenadine
 Garnish: No Garnish
-Pour the strawberry schnapps into a shot glass. Layer the Irish cream on top. Finally, add the drops of grenadine to the center of the drink.CommentsThe grenadine has to pass through the Irish cream. You might have to add more than 2 drops of grenadine.
+Pour the strawberry schnapps into a shot glass. Layer the Irish cream on top. Finally, add the drops of grenadine to the center of the drink.CommentsThe grenadine has to pass through the Irish cream. You might have to add more than 2 drops of grenadine.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=127'>Brain Hemorrhage
 
 Climax
 1/2 oz. Vodka
@@ -965,7 +965,7 @@ Beer
 Cola
 1 Shot Amaretto
 Garnish: No Garnish
-Fill 3/4 of a beer mug with equal parts of beer and cola. Drop the shot of amaretto.
+Fill 3/4 of a beer mug with equal parts of beer and cola. Drop the shot of amaretto.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1699'>Dr. Pepper From Hell
 
 Gorilla Fart
 1 oz. Rum (151-Proof)
@@ -1124,7 +1124,7 @@ Sloe Comfortable Screw Against The Wall
 Orange Juice
 Float of Galliano® Liqueur
 Garnish: Orange Slice
-Pour vodka, Southern Comfort and sloe gin into a glass with ice. Fill it with orange juice and the float of Galliano.
+Pour vodka, Southern Comfort and sloe gin into a glass with ice. Fill it with orange juice and the float of Galliano.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1380'>Sloe Comfortable Screw
 
 Stinger
 1 1/2 oz. Brandy
@@ -1150,7 +1150,7 @@ Alexander Cocktail
 1 oz. Crème de Cacao (White)
 1 oz. Cream / Half & Half
 Garnish: Nutmeg Sprinkles
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=163'>Alexander's Sister, <a href='?drinkID=129'>Brandy Alexander
 
 Algonquin
 1 1/2 oz. Whiskey
@@ -1164,7 +1164,7 @@ Alexander's Sister
 1 oz. Crème de Menthe (Green)
 1 oz. Cream / Half & Half
 Garnish: Nutmeg Sprinkles
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=161'>Alexander Cocktail
 
 Americano
 1 oz. Campari®
@@ -3873,7 +3873,7 @@ Splash of Water
 1 tsp. Sugar
 6 Mint Leaves
 Garnish: Mint Leaves
-Muddle the mint leaves, sugar and the water. Fill it with crushed ice. Add bourbon.CommentsUse Silver Mint Julep Cups if you have them.
+Muddle the mint leaves, sugar and the water. Fill it with crushed ice. Add bourbon.CommentsUse Silver Mint Julep Cups if you have them.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1662'>Canadian Julep
 
 Maiden's Blush
 2 oz. Gin
@@ -4084,7 +4084,7 @@ Manhattan (Dry)
 3 1/2 oz. Whiskey
 1/2 oz. Vermouth (Dry)
 Garnish: Cherry or Lemon Twist
-Pour whiskey and the dry vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
+Pour whiskey and the dry vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=67'>Manhattan, <a href='?drinkID=68'>Perfect Manhattan
 
 Manhasset
 1 1/2 oz. Whiskey
@@ -4235,7 +4235,7 @@ Pendennis Toddy
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Wedge
-Pour bourbon and water into a glass with ice. Add sugar and stir.
+Pour bourbon and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1919'>Hot Pendennis Toddy
 
 Paradise Cocktail
 1 oz. Apricot Brandy
@@ -4782,7 +4782,7 @@ Rum Screwdriver
 2 oz. Rum (Light)
 Orange Juice
 Garnish: No Garnish
-Pour rum into a glass with ice. Fill it with orange juice.
+Pour rum into a glass with ice. Fill it with orange juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1'>Screwdriver
 
 Rum Sour
 2 oz. Rum (Light)
@@ -4891,7 +4891,7 @@ Rum Toddy
 Splash of Water
 1/2 tsp. Sugar
 Garnish: Lemon Twist
-Pour rum and water into a glass with ice. Add sugar and stir.
+Pour rum and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1908'>Hot Rum Toddy
 
 Raspberry Romance
 3/4 oz. Coffee Liqueur
@@ -5801,7 +5801,7 @@ Cordless Screwdriver
 Orange Wedge
 Sugar
 Garnish: No Garnish
-Pour vodka into a shaker with ice. Shake and strain into a shot glass. Dip orange wedge in sugar. Shoot the vodka and eat the orange wedge.
+Pour vodka into a shaker with ice. Shake and strain into a shot glass. Dip orange wedge in sugar. Shoot the vodka and eat the orange wedge.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1'>Screwdriver
 
 Cabaret
 1 1/2 oz. Gin
@@ -6042,7 +6042,7 @@ Splash of Triple Sec
 Splash of Grenadine
 Splash of Lemon Juice
 Garnish: Cherry
-Moist the rim of a martini glass with cherry brandy and dip it into sugar. Pour all ingredients into a shaker with ice. Shake and strain into the martini glass.
+Moist the rim of a martini glass with cherry brandy and dip it into sugar. Pour all ingredients into a shaker with ice. Shake and strain into the martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1620'>Apple Blossom
 
 Cherry Fizz
 2 oz. Cherry Brandy
@@ -6543,7 +6543,7 @@ Brandy Toddy
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Twist
-Pour brandy and water into a glass with ice. Add sugar and stir.
+Pour brandy and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1094'>Hot Toddy
 
 Brandy Vermouth Cocktail
 2 oz. Brandy
@@ -6829,7 +6829,7 @@ Banshee
 1/2 oz. Crème de Cacao (White)
 1/2 oz. Cream / Half & Half
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1865'>Screaming Banshee
 
 Black Jack
 1 oz. Kirschwasser
@@ -7178,7 +7178,7 @@ Black Hawk
 1 1/2 oz. Whiskey
 1 1/2 oz. Sloe Gin
 Garnish: Cherry
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1764'>Kentucky Black Hawk
 
 Blarney Stone Cocktail
 2 oz. Irish Whiskey
@@ -8186,14 +8186,14 @@ Top Shelf Long Island Iced Tea
 Sweet & Sour Mix
 Splash of Cola
 Garnish: Lemon Wedge
-Pour the vodka, gin, rum and Cointreau into a glass with ice. Almost fill it with sweet and sour mix. Add the splash of cola on the top.
+Pour the vodka, gin, rum and Cointreau into a glass with ice. Almost fill it with sweet and sour mix. Add the splash of cola on the top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=11'>Long Island Iced Tea
 
 Hot Toddy
 2 oz. Brandy
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour whiskey or brandy into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour whiskey or brandy into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=874'>Brandy Toddy
 
 Singapore Sling
 2 oz. Gin
@@ -8221,7 +8221,7 @@ Kahlúa And Cream
 2 oz. Coffee Liqueur
 Cream / Half & Half
 Garnish: No Garnish
-Pour Kahlúa into a glass with ice. Fill it with cream or milk.
+Pour Kahlúa into a glass with ice. Fill it with cream or milk.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=17'>White Russian
 
 Jack And Coke
 2 oz. Jack Daniel's® Tennessee Whiskey
@@ -8317,7 +8317,7 @@ Vodka And Red Bull
 2 oz. Vodka
 Red Bull® Energy Drink
 Garnish: No Garnish
-Pour vodka into a glass with ice. Fill it with Red Bull.
+Pour vodka into a glass with ice. Fill it with Red Bull.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1289'>Raging Bull
 
 Face Eraser
 1 oz. Vodka
@@ -8389,7 +8389,7 @@ Green Russian
 1 oz. Melon Liqueur
 1/2 oz. Cream / Half & Half (Optional)
 Garnish: No Garnish
-Pour vodka and melon liqueur into a glass with ice. Add cream if desired.CommentsYou can make it a martini if you like.
+Pour vodka and melon liqueur into a glass with ice. Add cream if desired.CommentsYou can make it a martini if you like.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=16'>Black Russian, <a href='?drinkID=17'>White Russian
 
 Green Russian #2
 1 1/2 oz. Vodka
@@ -8750,7 +8750,7 @@ Sex With An Alligator
 2 oz. Sweet & Sour Mix
 1/2 oz. Jägermeister®
 Garnish: No Garnish
-Pour the melon liqueur and sweet and sour mix into a shaker with ice. Shake and strain into a chilled martini glass. Pour the raspberry liqueur down the side of the martini glass. Float the Jägermeister on top.
+Pour the melon liqueur and sweet and sour mix into a shaker with ice. Shake and strain into a chilled martini glass. Pour the raspberry liqueur down the side of the martini glass. Float the Jägermeister on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1869'>Sexy Alligator
 
 Tequila Popper
 1 oz. Tequila
@@ -8838,7 +8838,7 @@ Cafe Amaretto
 1/2 oz. Brandy
 Hot Coffee
 Garnish: Whipped Cream
-Pour amaretto and Cognac into an Irish coffee mug. Fill it with coffee.
+Pour amaretto and Cognac into an Irish coffee mug. Fill it with coffee.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1492'>Caffè Di Amaretto
 
 White Lady
 1 1/2 oz. Gin
@@ -9182,14 +9182,14 @@ Gentle Bull
 1 oz. Coffee Liqueur
 Cream / Half & Half
 Garnish: No Garnish
-Pour tequila and coffee liqueur into a glass with ice. Fill it with cream.
+Pour tequila and coffee liqueur into a glass with ice. Fill it with cream.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=18'>Brave Bull, <a href='?drinkID=1324'>White Bull
 
 Brown Squirrel
 1 oz. Amaretto
 1 oz. Crème de Cacao (Dark)
 1 oz. Cream / Half & Half
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=121'>Pink Squirrel
 
 Peppermint Patty
 1 oz. Peppermint Schnapps
@@ -9426,7 +9426,7 @@ London Tour Bus
 1 1/2 oz. Lime Juice (Rose's®)
 Cola
 Garnish: No Garnish
-Pour vodka, rum and lime juice into a glass with ice. Fill it with cola.
+Pour vodka, rum and lime juice into a glass with ice. Fill it with cola.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1270'>London Bus
 
 Screaming Nazi
 1 oz. Goldschläger® Cinnamon Schnapps
@@ -9449,7 +9449,7 @@ London Bus
 1 1/2 oz. Rum (Light)
 1 1/2 oz. Lime Juice (Rose's®)
 Garnish: Lime Wedge (Optional)
-Pour vodka, rum and lime juice into an old fashioned glass with ice.
+Pour vodka, rum and lime juice into an old fashioned glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1267'>London Tour Bus
 
 Drunken Superman
 2 oz. Tequila
@@ -9509,7 +9509,7 @@ Iguana Shooter
 1/2 oz. Tequila
 1/2 oz. Coffee Liqueur
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1285'>Iguana
 
 Swamp Water
 1 oz. Vodka
@@ -9568,7 +9568,7 @@ Iguana
 1/2 oz. Coffee Liqueur
 2 oz. Sweet & Sour Mix
 Garnish: Lime Wedge
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1278'>Iguana Shooter
 
 Passionate Pleasure
 1 oz. Vodka
@@ -9600,7 +9600,7 @@ Raging Bull
 Red Bull® Energy Drink
 Splash of Grenadine
 Garnish: No Garnish
-Pour vodka into a glass with ice. Fill it with Red Bull. Add the splash of cranberry juice.
+Pour vodka into a glass with ice. Fill it with Red Bull. Add the splash of cranberry juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1113'>Vodka And Red Bull
 
 Wedding Anniversary
 1 1/2 oz. Vodka
@@ -9634,7 +9634,7 @@ Blue Motorcycle
 1/2 oz. Sweet & Sour Mix
 Lemon-Lime Soda
 Garnish: No Garnish
-Pour all the liquors and sweet and sour mix into a glass with ice. Fill it with lemon-lime soda.
+Pour all the liquors and sweet and sour mix into a glass with ice. Fill it with lemon-lime soda.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=13'>Adios Mother Fucker (A.M.F.)
 
 The Reef Cup
 1/2 oz. Vodka
@@ -9764,7 +9764,7 @@ White Cosmopolitan
 Dash of Lime Juice (Rose's®)
 Splash of White Cranberry Juice
 Garnish: Lime Wedge
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1371'>Blue Cosmopolitan, <a href='?drinkID=95'>Cosmopolitan
 
 Elvis
 1/4 oz. Hazelnut Liqueur
@@ -9805,7 +9805,7 @@ Superman
 Red Bull® Energy Drink
 Splash of Grenadine
 Garnish: No Garnish
-Pour cognac and Hpnotiq into a glass with ice. Almost fill it with Red Bull. Add the splash of grenadine.
+Pour cognac and Hpnotiq into a glass with ice. Almost fill it with Red Bull. Add the splash of grenadine.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1382'>Kryptonite #2
 
 Cherry Bomb
 1 Shot of Cherry Vodka
@@ -9870,7 +9870,7 @@ White Bull
 1 oz. Coffee Liqueur
 Milk
 Garnish: No Garnish
-Pour tequila and coffee liqueur in a glass with ice. Fill it with cream or milk.
+Pour tequila and coffee liqueur in a glass with ice. Fill it with cream or milk.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=18'>Brave Bull, <a href='?drinkID=1233'>Gentle Bull
 
 Irish Night Cap
 2 oz. Irish Whiskey
@@ -9927,13 +9927,13 @@ Vodka Sunrise
 Orange Juice
 Splash of Grenadine
 Garnish: Cherry
-Pour vodka into a glass with ice. Fill glass with orange juice and add the splash of grenadine.
+Pour vodka into a glass with ice. Fill glass with orange juice and add the splash of grenadine.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=15'>Tequila Sunrise<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1'>Screwdriver
 
 Brain
 1 oz. Peach Schnapps
 1/2 oz. Irish Cream
 Garnish: No Garnish
-Pour peach schnapps into a shot glass. Layer the Irish cream on top.
+Pour peach schnapps into a shot glass. Layer the Irish cream on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=127'>Brain Hemorrhage
 
 After Eight
 1/2 oz. Coffee Liqueur
@@ -10077,7 +10077,7 @@ Gold Driver
 2 oz. Tequila
 Orange Juice
 Garnish: No Garnish
-Pour tequila into a glass with ice. Fill it with orange juice.
+Pour tequila into a glass with ice. Fill it with orange juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1'>Screwdriver<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=15'>Tequila Sunrise
 
 Jamaican Quaalude
 1 oz. Coconut Rum
@@ -10166,7 +10166,7 @@ Pineapple Juice
 Cranberry Juice
 Splash of Lemon-Lime Soda
 Garnish: Pineapple Slice and Cherry
-Pour all liqueurs into a glass with ice. Almost fill it with equal parts of pineapple juice and cranberry juice. Add the splash of lemon-lime soda.
+Pour all liqueurs into a glass with ice. Almost fill it with equal parts of pineapple juice and cranberry juice. Add the splash of lemon-lime soda.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=114'>911 Fuck Me Up, <a href='?drinkID=1085'>Hawaiian Punch
 
 Russian Quaalude
 1 oz. Vodka
@@ -10249,7 +10249,7 @@ Blue Cosmopolitan
 Dash of Lime Juice (Rose's®)
 Splash of White Cranberry Juice
 Garnish: Lime Wedge
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=95'>Cosmopolitan, <a href='?drinkID=1310'>White Cosmopolitan
 
 Barracuda
 1 oz. Vodka
@@ -10317,7 +10317,7 @@ Sloe Comfortable Screw
 1 oz. Vodka
 Orange Juice
 Garnish: Orange Slice
-Pour sloe gin, Southern Comfort and vodka into a glass with ice. Fill it with orange juice.
+Pour sloe gin, Southern Comfort and vodka into a glass with ice. Fill it with orange juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=157'>Sloe Comfortable Screw Against The Wall
 
 Kryptonite
 1 oz. Melon Liqueur
@@ -10335,7 +10335,7 @@ Kryptonite #2
 Splash of Sweet & Sour Mix
 1/2 oz. Pineapple Juice
 Garnish: No Garnish
-Pour all ingredients into a glass with ice.
+Pour all ingredients into a glass with ice.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1315'>Superman
 
 Absolut Sex
 1 1/2 oz. Black Currant Vodka
@@ -10395,7 +10395,7 @@ Purple Cadillac Margarita
 Margarita Mix
 Float of Grand Marnier® Orange Liqueur
 Garnish: Lime Wedge or Lime Wheel
-Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and raspberry liqueur into the glass with ice. Fill it with sweet and sour mix or margarita mix. Add the float of Grand Marnier on top.
+Rub rim of a margarita glass with a lime and dip it into kosher salt. Pour tequila and raspberry liqueur into the glass with ice. Fill it with sweet and sour mix or margarita mix. Add the float of Grand Marnier on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=22'>Cadillac Margarita
 
 Purple Heather
 1 1/2 oz. Scotch Whisky
@@ -10448,7 +10448,7 @@ Peanut Butter And Jelly
 1 oz. Hazelnut Liqueur
 1 oz. Raspberry Liqueur
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=105'>Nuts And Berries
 
 Pearl Necklace
 1 oz. Chocolate Liqueur
@@ -10461,7 +10461,7 @@ B & C
 1/2 oz. Bénédictine®
 1/2 oz. Cognac
 Garnish: No Garnish
-Pour the Benedictine into a cordial glass then add the Cognac on top.
+Pour the Benedictine into a cordial glass then add the Cognac on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=122'>B & B
 
 Hole In One Shooter
 3/4 oz. Melon Liqueur
@@ -10487,13 +10487,13 @@ Racing Greyhound
 2 oz. Grapefruit Juice
 Red Bull® Energy Drink
 Garnish: No Garnish
-Pour vodka and grapefruit juice into a glass with ice. Fill it with Red Bull.
+Pour vodka and grapefruit juice into a glass with ice. Fill it with Red Bull.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=5'>Greyhound, <a href='?drinkID=6'>Salty Dog
 
 Hound Dog
 2 oz. Rum (Light)
 Grapefruit Juice
 Garnish: No Garnish
-Pour rum into a glass with ice. Fill it with grapefruit juice.
+Pour rum into a glass with ice. Fill it with grapefruit juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=5'>Greyhound, <a href='?drinkID=6'>Salty Dog
 
 Hurricane
 1 oz. Rum (Light)
@@ -10997,7 +10997,7 @@ Nutty Professor
 1/2 oz. Hazelnut Liqueur
 1/2 oz. Irish Cream
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=108'>Nutty Irishman
 
 Orange Tree
 1 1/2 oz. Amaretto
@@ -11037,7 +11037,7 @@ Strawberry Alexander
 1 Scoop of Vanilla Ice Cream
 5 oz. Strawberry Puree
 Garnish: Whipped Cream and Chocolate Shavings
-Blend all ingredients. Pour into a highball glass.
+Blend all ingredients. Pour into a highball glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=129'>Brandy Alexander
 
 Strawberry Dawn
 1 oz. Gin
@@ -11206,7 +11206,7 @@ Caffè Di Amaretto
 2 oz. Amaretto
 Hot Coffee
 Garnish: Whipped Cream
-Pour amaretto into an Irish coffee mug. Fill it with hot coffee.
+Pour amaretto into an Irish coffee mug. Fill it with hot coffee.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=1187'>Cafe Amaretto
 
 Café L'orange
 1/2 oz. Cognac
@@ -11356,7 +11356,7 @@ Malibu Slide
 2 oz. Irish Cream
 2 oz. Coffee Liqueur
 Garnish: Whipped Cream
-Pour all ingredients into a blender with ice. Blend until smooth and pour into a glass.
+Pour all ingredients into a blender with ice. Blend until smooth and pour into a glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=99'>Mudslide
 
 Leprechaun's Libation
 2 1/2 oz. Irish Whiskey
@@ -11575,42 +11575,42 @@ Caipirinha
 2 tsp. Sugar
 2 oz. Cachaca
 Garnish: Lime Wedge
-Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with cachaca.
+Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with cachaca.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1545'>Caipirissima, <a href='?drinkID=1547'>Caipiritaly, <a href='?drinkID=1546'>Caipiroska, <a href='?drinkID=1548'>Sakerinha
 
 Caipirissima
 4 Lime Wedges
 2 tsp. Sugar
 2 oz. Rum (Light)
 Garnish: Lime Wedge
-Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with rum.
+Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with rum.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1544'>Caipirinha, <a href='?drinkID=1547'>Caipiritaly, <a href='?drinkID=1546'>Caipiroska, <a href='?drinkID=1548'>Sakerinha
 
 Caipiroska
 4 Lime Wedges
 2 tsp. Sugar
 2 oz. Vodka
 Garnish: Lime Wedge
-Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with vodka.
+Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with vodka.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1544'>Caipirinha, <a href='?drinkID=1545'>Caipirissima, <a href='?drinkID=1547'>Caipiritaly, <a href='?drinkID=1548'>Sakerinha
 
 Caipiritaly
 4 Lime Wedges
 2 tsp. Sugar
 2 oz. Campari®
 Garnish: Lime Wedge
-Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with Campari.
+Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with Campari.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1544'>Caipirinha, <a href='?drinkID=1545'>Caipirissima, <a href='?drinkID=1546'>Caipiroska, <a href='?drinkID=1548'>Sakerinha
 
 Sakerinha
 4 Lime Wedges
 2 tsp. Sugar
 2 oz. Sake
 Garnish: Lime Wedge
-Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with sake.
+Muddle the lime wedges with the sugar in an old fashioned glass. Add ice and fill it with sake.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1544'>Caipirinha, <a href='?drinkID=1545'>Caipirissima, <a href='?drinkID=1547'>Caipiritaly, <a href='?drinkID=1546'>Caipiroska
 
 Slutty Shirley Temple
 2 oz. Vodka
 Lemon-Lime Soda
 1/2 oz. Grenadine
 Garnish: Cherry
-Pour vodka into a glass with ice. Almost fill it with lemon-lime soda. Add grenadine and stir.
+Pour vodka into a glass with ice. Almost fill it with lemon-lime soda. Add grenadine and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1907'>Passionate Shirley Temple, <a href='?drinkID=30'>Shirley Temple
 
 Danish Mary
 2 oz. Akvavit
@@ -11643,7 +11643,7 @@ Grog
 1 tsp. Honey
 Water
 Garnish: Cinnamon Stick or Lemon Wedge
-Pour dark rum, lemon juice and honey in an Irish coffee mug. Fill it with hot water and stir.
+Pour dark rum, lemon juice and honey in an Irish coffee mug. Fill it with hot water and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1554'>Navy Grog
 
 Navy Grog
 2 oz. Rum (Dark)
@@ -11653,7 +11653,7 @@ Navy Grog
 1 oz. Orange Juice
 1 oz. Pineapple Juice
 Garnish: Cinnamon Stick
-Pour all ingredients into a shaker with ice. Shake and strain into a glass with ice.
+Pour all ingredients into a shaker with ice. Shake and strain into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1553'>Grog
 
 Bumbo
 2 oz. Rum (Dark)
@@ -12110,7 +12110,7 @@ Amaretto Alexander
 1 oz. Crème de Cacao (White)
 1 oz. Cream / Half & Half
 Garnish: Nutmeg Sprinkles
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=161'>Alexander Cocktail
 
 American Dream
 1/2 oz. Amaretto
@@ -12155,7 +12155,7 @@ Apple Blossom
 1 oz. Apple Juice
 1/2 oz. Lemon Juice
 Garnish: Apple Slice
-Moist the rim of a chilled martini glass with a lemon wedge and dip it into sugar. Pour all ingredients into a shaker with ice. Shake and strain into the martini glass.
+Moist the rim of a chilled martini glass with a lemon wedge and dip it into sugar. Pour all ingredients into a shaker with ice. Shake and strain into the martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=808'>Cherry Blossom
 
 Applejack Collins
 2 oz. Apple Brandy
@@ -12188,7 +12188,7 @@ Fuzzy Greyhound
 1 oz. Peach Schnapps
 Grapefruit Juice
 Garnish: No Garnish
-Pour vodka and peach schnapps into a glass with ice. Fill it with grapefruit juice.
+Pour vodka and peach schnapps into a glass with ice. Fill it with grapefruit juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=49'>Fuzzy Navel, <a href='?drinkID=5'>Greyhound
 
 Bailey's Comet
 1/2 oz. Irish Cream
@@ -12455,7 +12455,7 @@ Splash of Water
 1 tsp. Sugar
 5 Mint Leaves
 Garnish: Mint Leaves
-Muddle the mint leaves, sugar and the water. Fill glass with crushed ice. Add Canadian whiskey.
+Muddle the mint leaves, sugar and the water. Fill glass with crushed ice. Add Canadian whiskey.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=519'>Mint Julep
 
 Candy Apple
 2 oz. Amaretto
@@ -12517,7 +12517,7 @@ Caribbean Boilermaker
 1 Shot of Rum (Dark)
 Beer
 Garnish: No Garnish
-Fill a beer mug 3/4 full of beer. Drop the shot of rum into the glass with beer.CommentsYou could also drink the shot of rum and then chase it with the beer.
+Fill a beer mug 3/4 full of beer. Drop the shot of rum into the glass with beer.CommentsYou could also drink the shot of rum and then chase it with the beer.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1336'>Boilermaker
 
 Carrot Cake
 1/2 oz. Irish Cream
@@ -12660,7 +12660,7 @@ Virgin Madras
 Orange Juice
 Cranberry Juice
 Garnish: Orange Slice
-Pour equal amounts of orange juice and cranberry juice into a glass with ice.
+Pour equal amounts of orange juice and cranberry juice into a glass with ice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=7'>Madras
 
 Dirty Girl Scout
 1 oz. Vodka
@@ -12675,14 +12675,14 @@ Dirty Dog
 Grapefruit Juice
 3 Dashes of Bitters
 Garnish: No Garnish
-Pour vodka into a glass with ice. Fill it with grapefruit juice. Add 3 dashes of bitters.
+Pour vodka into a glass with ice. Fill it with grapefruit juice. Add 3 dashes of bitters.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=5'>Greyhound
 
 Separator
 1 oz. Brandy
 1 oz. Coffee Liqueur
 Cream / Half & Half
 Garnish: No Garnish
-Pour brandy and coffee liqueur into a glass with ice. Fill it with cream.
+Pour brandy and coffee liqueur into a glass with ice. Fill it with cream.<div id='suggestedDrinks'>Drink Suggestions<a href='?drinkID=45'>Dirty Mother, <a href='?drinkID=17'>White Russian
 
 Dog's Nose
 2 oz. Gin
@@ -12722,7 +12722,7 @@ Dr. Pepper From Hell
 Beer
 Cola
 Garnish: No Garnish
-Pour amaretto and the 151-proof rum into a shot glass. Fill 3/4 of a beer mug with equal parts of beer and cola. Drop the shot into the beer mug.
+Pour amaretto and the 151-proof rum into a shot glass. Fill 3/4 of a beer mug with equal parts of beer and cola. Drop the shot into the beer mug.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=135'>Dr. Pepper
 
 Dublin Driver
 2 oz. Irish Mist®
@@ -12863,13 +12863,13 @@ Polar Bear
 1 oz. Crème de Cacao (White)
 1 oz. Peppermint Schnapps
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1719'>White Polar Bear
 
 White Polar Bear
 1 oz. White Chocolate Liqueur
 1 oz. Peppermint Schnapps
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1718'>Polar Bear
 
 Golden Cadillac With Whitewall Tires
 1 1/2 oz. Vanilla Vodka
@@ -13062,13 +13062,13 @@ Jager And Red Bull
 2 oz. Jägermeister®
 Red Bull® Energy Drink
 Garnish: No Garnish
-Pour Jägermeister into a glass with ice. Fill it with Red Bull.
+Pour Jägermeister into a glass with ice. Fill it with Red Bull.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=103'>Jager Bomb, <a href='?drinkID=1748'>Jager Bomb (Military Style)
 
 Jager Bomb (Military Style)
 1 Shot of Jägermeister®
 Red Bull® Energy Drink
 Garnish: No Garnish
-Fill a glass half way with Red Bull (no ice). Add 1 oz of Jägermeister into the Red Bull. Drop the shot of Jägermeister into the glass with Red Bull.CommentsMake sure the Jägermeister and the Red Bull are cold.
+Fill a glass half way with Red Bull (no ice). Add 1 oz of Jägermeister into the Red Bull. Drop the shot of Jägermeister into the glass with Red Bull.CommentsMake sure the Jägermeister and the Red Bull are cold.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1747'>Jager And Red Bull, <a href='?drinkID=103'>Jager Bomb
 
 Jager Monster
 2 oz. Jägermeister®
@@ -13175,13 +13175,13 @@ Kentucky B & B
 1/2 oz. Bourbon
 1/2 oz. Bénédictine®
 Garnish: No Garnish
-Pour bourbon and Benedictine into a cordial glass.
+Pour bourbon and Benedictine into a cordial glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=122'>B & B
 
 Kentucky Black Hawk
 1 1/2 oz. Bourbon
 1 1/2 oz. Sloe Gin
 Garnish: Cherry
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=960'>Black Hawk
 
 Kentucky Orange Blossom
 1 1/2 oz. Bourbon
@@ -13568,7 +13568,7 @@ Roasted Toasted Almond
 1 oz. Amaretto
 Milk
 Garnish: No Garnish
-Pour vodka, coffee liqueur and amaretto into a glass with ice. Fill it with cream or milk.
+Pour vodka, coffee liqueur and amaretto into a glass with ice. Fill it with cream or milk.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=101'>Toasted Almond
 
 Naked Girl Scout
 1 oz. Chocolate Liqueur
@@ -13698,7 +13698,7 @@ PB & J Martini
 1 oz. Hazelnut Liqueur
 1 oz. Raspberry Liqueur
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=120'>PB & J
 
 Peaches And Cream Martini
 1 oz. Vodka
@@ -13753,7 +13753,7 @@ Salty Chihuahua
 2 oz. Tequila
 Grapefruit Juice
 Garnish: Salt
-Pour tequila into a salted rim glass with ice. Fill it with grapefruit juice.
+Pour tequila into a salted rim glass with ice. Fill it with grapefruit juice.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=6'>Salty Dog
 
 Pernod Cocktail
 2 oz. Pernod®
@@ -13934,7 +13934,7 @@ Screaming Banshee
 1/2 oz. Crème de Cacao (White)
 1/2 oz. Cream / Half & Half
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=913'>Banshee
 
 Seelbach Cocktail
 1 oz. Bourbon
@@ -13967,7 +13967,7 @@ Sexy Alligator
 2 oz. Pineapple Juice
 1/2 oz. Jägermeister®
 Garnish: No Garnish
-Pour the melon liqueur and pineapple juice into a shaker with ice. Shake and strain into a chilled martini glass. Pour the raspberry liqueur down the side of the martini glass. Float the Jägermeister on top.
+Pour the melon liqueur and pineapple juice into a shaker with ice. Shake and strain into a chilled martini glass. Pour the raspberry liqueur down the side of the martini glass. Float the Jägermeister on top.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1175'>Sex With An Alligator
 
 Sexy Alligator #2
 1/2 oz. Raspberry Liqueur
@@ -14096,7 +14096,7 @@ Southern Comfort Manhattan
 3 1/2 oz. Southern Comfort®
 1/2 oz. Vermouth (Sweet)
 Garnish: Cherry
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=67'>Manhattan
 
 Southern Comfort Sidecar
 2 oz. Southern Comfort®
@@ -14181,7 +14181,7 @@ Yellow Canary
 1/2 oz. Galliano® Liqueur
 1/2 oz. Lime Juice
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1898'>Tweety Bird
 
 Tweety Bird
 1 1/2 oz. Rum (Light)
@@ -14189,7 +14189,7 @@ Tweety Bird
 1/2 oz. Galliano® Liqueur
 1/2 oz. Lime Juice
 Garnish: No Garnish
-Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1897'>Yellow Canary
 
 Vanilla Coke
 2 oz. Vanilla Rum
@@ -14243,28 +14243,28 @@ Passionate Roy Rogers
 1/2 oz. Grenadine
 Cola
 Garnish: Cherry
-Pour passion fruit vodka and grenadine into a glass with ice. Fill it with cola.
+Pour passion fruit vodka and grenadine into a glass with ice. Fill it with cola.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=31'>Roy Rogers
 
 Passionate Shirley Temple
 2 oz. Passion Fruit Vodka
 1/2 oz. Grenadine
 Lemon-Lime Soda
 Garnish: Cherry
-Pour passion fruit vodka and grenadine into a glass with ice. Fill it with lemon-lime soda.
+Pour passion fruit vodka and grenadine into a glass with ice. Fill it with lemon-lime soda.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=30'>Shirley Temple, <a href='?drinkID=1549'>Slutty Shirley Temple
 
 Hot Rum Toddy
 2 oz. Rum (Light)
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour light rum into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour light rum into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=655'>Rum Toddy
 
 Vodka Toddy
 2 oz. Vodka
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Twist
-Pour vodka and water into a glass with ice. Add sugar and stir.
+Pour vodka and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1914'>Hot Vodka Toddy
 
 Mexican Toddy
 2 oz. Tequila
@@ -14278,63 +14278,63 @@ Irish Toddy
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Twist
-Pour Irish whiskey and water into a glass with ice. Add sugar and stir.
+Pour Irish whiskey and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1917'>Hot Irish Toddy
 
 Scotch Toddy
 2 oz. Scotch Whisky
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Twist
-Pour Scotch whisky and water into a glass with ice. Add sugar and stir.
+Pour Scotch whisky and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1916'>Hot Scotch Toddy
 
 Southern Toddy
 2 oz. Southern Comfort®
 Splash of Water
 1 tsp. Sugar
 Garnish: Lemon Twist
-Pour Southern Comfort and water into a glass with ice. Add sugar and stir.
+Pour Southern Comfort and water into a glass with ice. Add sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1918'>Hot Southern Toddy
 
 Hot Vodka Toddy
 2 oz. Vodka
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour vodka into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour vodka into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1909'>Vodka Toddy
 
 Hot Mexican Toddy
 2 oz. Tequila
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour tequila into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour tequila into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1910'>Mexican Toddy
 
 Hot Scotch Toddy
 2 oz. Scotch Whisky
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour Scotch whisky into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour Scotch whisky into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1912'>Scotch Toddy
 
 Hot Irish Toddy
 2 oz. Irish Whiskey
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Twist
-Pour Irish whiskey into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour Irish whiskey into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1911'>Irish Toddy
 
 Hot Southern Toddy
 2 oz. Southern Comfort®
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour Southern Comfort into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour Southern Comfort into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=1913'>Southern Toddy
 
 Hot Pendennis Toddy
 2 oz. Bourbon
 Water
 1 tsp. Sugar
 Garnish: Cloves and Lemon Wedge
-Pour bourbon into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.
+Pour bourbon into an Irish coffee mug. Fill it with hot water. Add honey or sugar and stir.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=567'>Pendennis Toddy
 
 Tea Toddy
 2 oz. Brandy
@@ -15909,7 +15909,7 @@ Lindsay Lohan
 Cranberry Juice
 Splash of Cola
 Garnish: No Garnish
-Pour Jagermeister and peach schnapps into a glass with ice. Almost fill it with cranberry juice. Add the splash of cola.CommentsIt's called Lindsay Lohan because it's a Red Headed Slut with Coke.
+Pour Jagermeister and peach schnapps into a glass with ice. Almost fill it with cranberry juice. Add the splash of cola.CommentsIt's called Lindsay Lohan because it's a Red Headed Slut with Coke.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=62'>Red Headed Slut
 
 Ski Jump
 1 1/2 oz. Vodka
@@ -15945,7 +15945,7 @@ Mexican Golfer
 Iced Tea
 Lemonade
 Garnish: Lemon Wedge
-Pour tequila into a glass with ice. Fill it with equal amounts of iced tea and lemonade.
+Pour tequila into a glass with ice. Fill it with equal amounts of iced tea and lemonade.<div id='relatedDrinks'>Related Drinks<a href='?drinkID=32'>Arnold Palmer
 
 Apple Sidecar
 2 oz. Apple Brandy
@@ -20058,4 +20058,133 @@ Garnish: No Garnish
 Pour equal amounts of orange juice and tonic water into a highball glass with ice.
 
 Banana Bracer
-1 B
+1 Banana
+3 oz. Milk
+1 oz. Pineapple Juice
+1 oz. Cream of Coconut
+Garnish: Cherry
+Blend all ingredients with ice. Pour into a collins glass.
+
+Blaster Bates
+1 Banana
+1/4 Cup of Blueberries
+1/4 Cup of Raspberries
+2 oz. Milk
+4 oz. Orange Juice
+Garnish: No Garnish
+Blend all ingredients with ice. Pour into a collins glass.
+
+Caesar Makes Sense
+6 oz. Orange Juice
+1 Scoop of Vanilla Ice Cream
+Splash of Grenadine
+Garnish: Orange Slice
+Blend all ingredients with a little bit of ice. Pour into a collins glass.
+
+Carry's Caribe
+6 oz. Crushed Pineapple
+1 tsp. Honey
+1/2 oz. Cream of Coconut
+3 oz. Pineapple Juice
+Garnish: No Garnish
+Blend all ingredients with ice. Pour into a collins glass.
+
+Coconapple
+4 oz. Pineapple Juice
+1 oz. Cream of Coconut
+Garnish: No Garnish
+Blend all ingredients with ice. Pour into a collins glass.
+
+Elephant Charger
+2 oz. Orange Juice
+2 oz. Milk
+2 oz. Peach Puree
+1 Banana
+1/4 Cup of Raspberries
+2 Scoops of Vanilla Ice Cream
+Garnish: No Garnish
+Blend all ingredients. Pour into a collins glass.
+
+Flying Fairbrother
+2 oz. Grapefruit Juice
+1 oz. Orange Juice
+1 oz. Cranberry Juice
+1 tsp. Honey
+Ginger Ale
+Garnish: No Garnish
+Pour grapefruit juice, orange juice, cranberry juice and honey into a shaker with ice. Shake and pour into a glass. Fill it with ginger ale.
+
+Lime Tonic
+1 oz. Lime Juice
+Tonic Water
+Garnish: Lime Wedge
+Pour lime juice into a glass with ice. Fill it with tonic water.
+
+Orangeade
+4 oz. Orange Juice
+1 tsp. Sugar
+Water
+Garnish: Orange Slice
+Pour orange juice into a glass with ice. Fill it with water. Add sugar and stir.
+
+Orangeade #2
+5 oz. Orange Juice
+1 oz. Lemon Juice
+1 tsp. Sugar
+Club Soda / Carbonated Water
+Garnish: Orange Slice
+Pour orange juice, lemon juice and sugar into a shaker with ice. Shake and pour into a glass. Fill it with club soda.
+
+Peachy Hanes
+2 oz. Peach Nectar
+Ginger Beer
+Garnish: No Garnish
+Pour peach nectar into a beer mug with ice. Fill it with ginger beer.
+
+Penzance Cocktail
+2 oz. Orange Juice
+Ginger Beer
+Garnish: Lemon Wedge
+Pour orange juice into a beer mug with ice. Fill it with ginger beer.
+
+Pussyfoot
+2 oz. Orange Juice
+1 oz. Lemon Juice
+Splash of Grenadine
+Garnish: Cherry
+Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.
+
+Rose And Thistle
+1 Banana
+4 oz. Strawberry Puree
+6 oz. Milk
+Garnish: No Garnish
+Blend all ingredients with ice. Pour into a collins glass.
+
+Virgin Piña Colada #2
+4 oz. Pineapple Juice
+4 oz. Cream of Coconut
+Garnish: Pineapple Slice and Cherry
+Blend all ingredients with ice. Pour into a hurricane glass.
+
+Chi-Chi (Classic)
+2 oz. Vodka
+4 oz. Cream of Coconut
+4 oz. Pineapple Juice
+Garnish: Pineapple Slice and Cherry
+Blend all ingredients with ice. Pour into a hurricane glass.
+
+Frozen Melon Margarita
+1 1/2 oz. Tequila
+1 oz. Melon Liqueur
+Margarita Mix
+Garnish: Melon Wedge or Lime Wheel
+Rub rim of a margarita glass with a lime and dip it into sugar. Blend all ingredients with ice. Pour into the margarita glass.
+
+Frozen Blue Margarita
+1 1/2 oz. Tequila
+1/2 oz. Blue Curacao
+Margarita Mix
+Garnish: Lime Wedge or Lime Wheel
+Rub rim of a margarita glass with a lime and dip it into kosher salt. Blend all ingredients with ice. Pour into the salted margarita glass.
+

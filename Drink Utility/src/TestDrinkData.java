@@ -14,11 +14,11 @@ public class TestDrinkData {
     private static DrinkData dd;
 
     public static void main(String[] args) {
-        DrinkDb.saveDrinkData();
+        fixRecipesLarge();
     }
     
     private static void printAllDrinkInfo() {
-        dd = new DrinkData();
+        dd = DrinkData.getDrinkData();
         Set<Drink> drinks = dd.getAllDrinks();
         for (Drink d : drinks) {
             DrinkInfo di = dd.getDrinkInfo(d);
@@ -31,20 +31,25 @@ public class TestDrinkData {
         }
     }
     
-    private static void fixIngredientsLarge() {
+    private static void fixRecipesLarge() {
         try {
-            String fileName = "IngredientsFixed.txt";
+            String fileName = "RecipesFixed.txt";
             File file = new File(fileName);
             PrintWriter pw = new PrintWriter(file);
-            Scanner sc = new Scanner(new File("IngredientsLarge.txt"));
+            Scanner sc = new Scanner(new File("RecipesLarge.txt"));
             while (sc.hasNextLine()) {
                 String line = sc.nextLine();
                 if (line.contains("<div")) {
                     int i = line.indexOf("<");
                     line = line.substring(0, i);
                 }
+                if (line.contains("Comments")) {
+                    line = line.split("Comments")[0];
+                }
                 pw.println(line);
             }
+            sc.close();
+            pw.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
