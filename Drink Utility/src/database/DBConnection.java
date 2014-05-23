@@ -14,7 +14,7 @@ public class DBConnection {
     public static Connection getConnection() {
         try {
             Scanner sc = new Scanner(new File("pwd.txt"));
-            String password = sc.next();
+            String password = "ghghghgh1";
             
             String dbName = "onedrinkaway"; 
             String userName = "teamgaia"; 

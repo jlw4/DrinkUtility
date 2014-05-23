@@ -32,9 +32,12 @@ public class UpdateDrinks {
             Statement stmt = conn.createStatement();
             // get drink names from database
             Set<String> drinkNames = getDrinkNames(stmt);
+            for (String dn : drinkNames) {
+                System.out.println(dn);
+            }
             // now parse text files and get DrinkData
-            InputStream drinkIs = new FileInputStream(new File("drinks.tsv"));
-            InputStream drinkInfoIs = new FileInputStream(new File("RecipesBeta.txt"));
+//            InputStream drinkIs = new FileInputStream(new File("drinks.tsv"));
+//            InputStream drinkInfoIs = new FileInputStream(new File("RecipesBeta.txt"));
             // TODO, use code below to get a list of Drinks and DrinkInfo found in files
             // TODO, upload drinks that are not found in drinkNames
             
