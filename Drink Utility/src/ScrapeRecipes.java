@@ -28,7 +28,7 @@ public class ScrapeRecipes {
     /**
      * Parses Drinks.csv and returns a List of all drink names found
      */
-    private static List<String> getDrinkNames() {
+    public static List<String> getDrinkNames() {
         List<String> list = new ArrayList<String>();
         try {
             Scanner sc = new Scanner(new File("Drinks.csv"));
@@ -57,7 +57,7 @@ public class ScrapeRecipes {
      * @param end the drink number to end with
      * @param docNum the number of the document to write to
      */
-    private static void scrapeGoodCocktails(int start, int end, int docNum) {
+    public static void scrapeGoodCocktails(int start, int end, int docNum) {
         PrintWriter pw = null;
         try {
             String fileName = "Ingredients" + docNum + ".txt";
@@ -115,7 +115,7 @@ public class ScrapeRecipes {
      * 
      * @param drinks
      */
-    private static void scrapeIngredients(List<String> drinks) {
+    public static void scrapeIngredients(List<String> drinks) {
         int count = 0;
         for (String drink : drinks) {
             
