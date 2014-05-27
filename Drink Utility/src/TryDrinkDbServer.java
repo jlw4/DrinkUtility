@@ -4,6 +4,12 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 import java.net.URLEncoder;
+import java.util.HashMap;
+
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.onedrinkaway.model.Drink;
+import com.onedrinkaway.model.DrinkInfo;
 
 /**
  * Used for visual inspecting of response strings from DrinKDbServer
@@ -16,8 +22,10 @@ public class TryDrinkDbServer {
     public static void main(String[] arrrrrgs) {
         try {
             
+            String hostUrl = "http://localhost:8089/DrinkDbServer";
+            
             // test addrating
-            String url = "http://localhost:8000/addrating";
+            String url = hostUrl + "/adduserrating";
             String charset = "UTF-8";
             String userid = "9774d56d682e549c";
             String drinkid = "123";
@@ -39,7 +47,7 @@ public class TryDrinkDbServer {
             }
             
             // test addfavorite
-            url = "http://localhost:8000/addfavorite";
+            url = hostUrl + "/addfavorite";
             charset = "UTF-8";
             userid = "9774d56d682e549c";
             drinkid = "123";
@@ -59,7 +67,7 @@ public class TryDrinkDbServer {
             }
             
             // test getfavorites
-            url = "http://localhost:8000/getfavorites";
+            url = hostUrl + "/getuserfavorites";
             charset = "UTF-8";
             userid = "9774d56d682e549c";
 
@@ -76,7 +84,7 @@ public class TryDrinkDbServer {
             }
             
              // test removefavorite
-            url = "http://localhost:8000/removefavorite";
+            url = hostUrl + "/removefavorite";
             charset = "UTF-8";
             userid = "9774d56d682e549c";
             drinkid = "123";
@@ -96,7 +104,7 @@ public class TryDrinkDbServer {
             }
             
             // test remove/getfavorites
-            url = "http://localhost:8000/getfavorites";
+            url = hostUrl + "/getuserfavorites";
             charset = "UTF-8";
             userid = "9774d56d682e549c";
 
@@ -114,7 +122,7 @@ public class TryDrinkDbServer {
             System.out.println();
             
             // test getuserrating
-            url = "http://localhost:8000/getuserrating";
+            url = hostUrl + "/getuserratings";
             charset = "UTF-8";
             userid = "9774d56d682e549c";
 
@@ -131,7 +139,7 @@ public class TryDrinkDbServer {
             }
             
             // test getavgrating
-            url = "http://localhost:8000/getavgrating";
+            url = hostUrl + "/getavgratings";
             
             response = new URL(url).openStream();
             System.out.print("Average user ratings : ");
@@ -141,7 +149,27 @@ public class TryDrinkDbServer {
                 }
             }
             
+            // test getalldrinks
+            url = hostUrl + "/getalldrinks";
             
+            response = new URL(url).openStream();
+            System.out.print("All Drinks : ");
+            try {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(response, charset));
+                String data = reader.readLine();
+                Gson gson = new Gson();
+                HashMap<String, String> datamap = gson.fromJson(data, new TypeToken<HashMap<String, String>>() {}.getType());
+                for (String key : datamap.keySet()) {
+                    Drink d = gson.fromJson(key, new TypeToken<Drink>() {}.getType());
+                    DrinkInfo di = gson.fromJson(datamap.get(key), new TypeToken<DrinkInfo>() {}.getType());
+                    System.out.println(d.id + " " + d.name);
+                }
+                System.out.println(datamap.toString());
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            
+            System.out.println("done");
 
         } catch (Exception e) {
             e.printStackTrace();
