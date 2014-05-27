@@ -9,13 +9,12 @@ import java.util.Scanner;
 
 public class DBConnection {
     
-    private static Connection c;
     
     public static Connection getConnection() {
         try {
-            Scanner sc = new Scanner(new File("pwd.txt"));
-            String password = "ghghghgh1";
-            
+            Scanner sc = new Scanner(new File("/usr/pwd.txt"));
+            String password = sc.next();
+            sc.close();
             String dbName = "onedrinkaway"; 
             String userName = "teamgaia"; 
             String hostname = "onedrinkaway.ctfs3q1wopmj.us-west-2.rds.amazonaws.com";
@@ -25,16 +24,14 @@ public class DBConnection {
             + port + "/" + dbName + "?user=" + userName + "&password=" + password;
             
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection(jdbcUrl);
-            sc.close();
+            return DriverManager.getConnection(jdbcUrl);
         } catch (Exception e) {
             e.printStackTrace();
             System.err.println(e.getClass().getName()+": "+e.getMessage());
             System.exit(0);
         }
         System.out.println("Opened database successfully");
-        
-        return c;
+        return null;
         
     }
 
