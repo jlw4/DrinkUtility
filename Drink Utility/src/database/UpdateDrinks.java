@@ -23,7 +23,7 @@ public class UpdateDrinks {
     
     // Drink schema: (id, name, glass, garnish, description, instructions, source,
     // sweet, citrusy, bitter, herbal, minty, fruity, sour, boosy, spicy, salty, creamy)
-    // drinkId is primary key
+    // id is primary key
     
     public static void main(String[] argv) {
         
