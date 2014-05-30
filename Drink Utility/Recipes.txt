@@ -1423,13 +1423,13 @@ Pour all ingredients into a shaker with ice. Shake & strain into a chilled marti
 Garnish: No Garnish
 Pour in layers the Kahlua then the hazelnut liqueur & finally the Irish cream in a shot glass.
 
-Rum & Cola
+Rum & Coke
 2 oz. Rum (Light)
 Cola
 Garnish: Lime Wedge (Optional)
 Pour rum into a glass with ice. Fill it with cola.
 
-Bourbon & Cola
+Bourbon & Coke
 2 oz. Bourbon
 Cola
 Garnish: Lime Wedge (Optional)
@@ -1708,12 +1708,19 @@ Sweet & Sour Mix
 Garnish: Cherry
 Pour Southern Comfort into a glass with ice. Fill it with sweet & sour.
 
-Dirty Martini
+Dirty Vodka Martini
 3 1/2 oz. Vodka
 1/2 oz. Vermouth (Dry)
 splash of Olive Juice
 Garnish: Olives
-Pour vodka or gin & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
+Pour vodka & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
+
+Dirty Gin Martini
+3 1/2 oz. Gin
+1/2 oz. Vermouth (Dry)
+splash of Olive Juice
+Garnish: Olives
+Pour gin & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
 
 Malibu & Pineapple
 2 oz. Coconut Rum
@@ -8458,7 +8465,7 @@ Cream / Half & Half
 Garnish: No Garnish
 Pour Kahlúa into a glass with ice. Fill it with cream or milk.
 
-Jack & Cola
+Jack & Coke
 2 oz. Jack Daniels Tennessee Whiskey
 Cola
 Garnish: No Garnish
@@ -8492,7 +8499,7 @@ Dash of Lime Juice
 Garnish: Celery and/or Lime Wedge
 Pour tomato juice into a salted glass with ice. Add the Worcestershire sauce, Tabasco sauce & lime juice.
 
-Bacardi & Cola
+Bacardi & Coke
 2 oz. Rum (Light)
 Cola
 Garnish: No Garnish
@@ -8504,11 +8511,17 @@ Soda Water
 Garnish: Lime Wedge
 Pour Scotch into a glass with ice. Fill it with club soda.
 
-Martini (Dry)
+Dry Gin Martini
 3 1/2 oz. Gin
 1/2 oz. Vermouth (Dry)
 Garnish: Olives or Lemon Twist
-Pour vodka or gin & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
+Pour gin & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
+
+Dry Vodka Martini
+3 1/2 oz. Vodka
+1/2 oz. Vermouth (Dry)
+Garnish: Olives or Lemon Twist
+Pour vodka & the vermouth into a shaker with ice. Stir to chill the contents. Strain into a chilled martini glass.
 
 Virgin Pina Colada
 Pina Colada Mix
@@ -8542,7 +8555,7 @@ splash of Cream / Half & Half (Optional)
 Garnish: Lime Wedge
 Pour all ingredients into a shaker with ice. Shake & strain into a chilled martini glass.
 
-Captain & Cola
+Captain & Coke
 2 oz. Rum (Spiced)
 Cola
 Garnish: No Garnish
@@ -12507,7 +12520,7 @@ Cola
 Garnish: No Garnish
 Pour Jim Beam & amaretto into a glass with ice. Fill it with cola.
 
-Jim Beam & Cola
+Jim Beam & Coke
 2 oz. Jim Beam Bourbon
 Cola
 Garnish: No Garnish
@@ -15152,7 +15165,7 @@ Tuaca Lemon Drop
 Garnish: Lemon Wedge
 Rub the rim of a chilled martini glass with a lemon wedge & dip it into sugar. Pour all ingredients into a shaker with ice. Shake & strain into the martini glass.
 
-Tuaca & Cola
+Tuaca & Coke
 2 oz. Tuaca
 Cola
 Garnish: No Garnish
@@ -15838,7 +15851,7 @@ Hot Coffee
 Garnish: Whipped Cream
 Pour Cognac or brandy & Kahlua into an Irish coffee mug. Fill it with hot coffee.
 
-Tequila & Cola
+Tequila & Coke
 2 oz. Tequila
 Cola
 Garnish: Lime Wedge (Optional)
@@ -15888,7 +15901,7 @@ Ginger Ale
 Garnish: No Garnish
 Pour vodka into a glass with ice. Fill it with ginger ale.
 
-Vodka & Cola
+Vodka & Coke
 2 oz. Vodka
 Cola
 Garnish: No Garnish
@@ -15909,55 +15922,55 @@ Cola
 Garnish: Mint Leaves (Optional)
 Pour light rum, Kahlua & milk into a glass with ice. Fill it with cola.
 
-Gin & Cola
+Gin & Coke
 2 oz. Gin
 Cola
 Garnish: No Garnish
 Pour gin into a glass with ice. Fill it with cola.
 
-Scotch & Cola
+Scotch & Coke
 2 oz. Scotch Whisky
 Cola
 Garnish: No Garnish
 Pour Scotch into a glass with ice. Fill it with cola.
 
-Whiskey & Cola
+Whiskey & Coke
 2 oz. Whiskey
 Cola
 Garnish: No Garnish
 Pour whiskey into a glass with ice. Fill it with cola.
 
-Brandy & Cola
+Brandy & Coke
 2 oz. Brandy
 Cola
 Garnish: No Garnish
 Pour brandy into a glass with ice. Fill it with cola.
 
-Cognac & Cola
+Cognac & Coke
 2 oz. Cognac
 Cola
 Garnish: No Garnish
 Pour Cognac into a glass with ice. Fill it with cola.
 
-Irish Whiskey & Cola
+Irish Whiskey & Coke
 2 oz. Irish Whiskey
 Cola
 Garnish: No Garnish
 Pour Irish whiskey into a glass with ice. Fill it with cola.
 
-Bourbon & Cola
+Bourbon & Coke
 2 oz. Bourbon
 Cola
 Garnish: No Garnish
 Pour Bourbon into a glass with ice. Fill it with cola.
 
-Crown & Cola
+Crown & Coke
 2 oz. Crown Royal Canadian Whisky
 Cola
 Garnish: No Garnish
 Pour Crown Royal into a glass with ice. Fill it with cola.
 
-Amaretto & Cola
+Amaretto & Coke
 2 oz. Amaretto
 Cola
 Garnish: No Garnish
@@ -16119,7 +16132,7 @@ Soda Water
 Garnish: Lime Wedge
 Pour Bourbon into a glass with ice. Fill it with club soda.
 
-Malibu & Cola
+Malibu & Coke
 2 oz. Coconut Rum
 Cola
 Garnish: No Garnish

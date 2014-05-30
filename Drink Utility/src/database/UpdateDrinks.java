@@ -33,13 +33,14 @@ public class UpdateDrinks {
             // now print any drinks that need info
             findMissingRecipes(drinkNames);
             // now update drinks
-            updateDrinks();
-            printNumDrinks();
+            //updateDrinks();
+            //printNumDrinks();
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
     
+    @SuppressWarnings("unused")
     private static void printNumDrinks() throws Exception {
         Connection conn = DBConnection.getConnection();
         Statement stmt = conn.createStatement();
@@ -52,7 +53,7 @@ public class UpdateDrinks {
     // Prints all drink names missing recipes to console
     private static void findMissingRecipes(Set<String> drinkNames) {
         try {
-            Scanner sc = new Scanner(new File("RecipesFixed.txt"));
+            Scanner sc = new Scanner(new File("Recipes.txt"));
             while (sc.hasNextLine()){
                 String line = sc.nextLine();
                 if (drinkNames.contains(line))
