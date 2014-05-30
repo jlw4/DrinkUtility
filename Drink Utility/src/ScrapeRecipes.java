@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Utility class for database, contains various functions for managing,
  * populating and storing data.
  * 
- * @author avalanche
+ * @author John L Wilson
  *
  */
 public class ScrapeRecipes {

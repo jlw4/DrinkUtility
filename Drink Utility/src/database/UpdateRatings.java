@@ -5,6 +5,12 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Random;
 
+/**
+ * Used for viewing and updating ratings
+ * @author Avalanche
+ *
+ */
+
 public class UpdateRatings {
 
     public static void main(String[] args) {

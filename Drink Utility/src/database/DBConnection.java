@@ -11,10 +11,22 @@ public class DBConnection {
     
     
     public static Connection getConnection() {
+        String password = "";
         try {
             Scanner sc = new Scanner(new File("/usr/pwd.txt"));
-            String password = sc.next();
+            password = sc.next();
             sc.close();
+        } catch (Exception e) {
+            //e.printStackTrace();
+            try {
+                Scanner sc = new Scanner(new File("C:\\pwd.txt"));
+                password = sc.next();
+                sc.close();
+            } catch (Exception e2) {
+                //e2.printStackTrace();
+            }
+        }
+        try {
             String dbName = "onedrinkaway"; 
             String userName = "teamgaia"; 
             String hostname = "onedrinkaway.ctfs3q1wopmj.us-west-2.rds.amazonaws.com";

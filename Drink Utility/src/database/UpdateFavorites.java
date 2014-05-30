@@ -4,6 +4,10 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+/*
+ * Used for printing and updating favorite data
+ */
+
 public class UpdateFavorites {
     
     public static void main(String[] args) {

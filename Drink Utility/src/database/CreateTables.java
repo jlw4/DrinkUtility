@@ -61,7 +61,7 @@ public class CreateTables {
         }
     }
 
-    private static void createIngredient(Statement stmt) {
+    public static void createIngredient(Statement stmt) {
         try {
             String ingredient = "CREATE TABLE INGREDIENT " +
                     "(drinkid INTEGER REFERENCES DRINK, " +
@@ -75,7 +75,7 @@ public class CreateTables {
         }
     }
 
-    private static void createCategory (Statement stmt) {
+    public static void createCategory (Statement stmt) {
         try {
             String category = "CREATE TABLE CATEGORY " +
                     "(drinkid INTEGER REFERENCES DRINK, " +
@@ -87,7 +87,7 @@ public class CreateTables {
         }
     }
     
-    private static void createDrink(Statement stmt) {
+    public static void createDrink(Statement stmt) {
         try {
             String drink = "CREATE TABLE DRINK " +
                     "(id INTEGER PRIMARY KEY, " +
@@ -123,7 +123,7 @@ public class CreateTables {
         dropRating(stmt);
     }
     
-    private static void dropDrink(Statement stmt) {
+    public static void dropDrink(Statement stmt) {
         try {
             stmt.executeUpdate("DROP TABLE DRINK");
             System.out.println("dropped drink");
@@ -132,7 +132,7 @@ public class CreateTables {
         }
     }
     
-    private static void dropCategory(Statement stmt) {
+    public static void dropCategory(Statement stmt) {
         try {
             stmt.executeUpdate("DROP TABLE CATEGORY");
             System.out.println("dropped category");
@@ -141,7 +141,7 @@ public class CreateTables {
         }
     }
     
-    private static void dropIngredient(Statement stmt) {
+    public static void dropIngredient(Statement stmt) {
         try {
             stmt.executeUpdate("DROP TABLE INGREDIENT");
             System.out.println("dropped ingredient");

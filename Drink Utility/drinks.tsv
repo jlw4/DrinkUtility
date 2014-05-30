@@ -8,7 +8,7 @@ drinkId	drinkName	complete	categories	glass type	image	sweet	citrusy	bitter	herb
 7	Bahama Mama	1	Shaken	Collins	highball_orange	4	3	2	0	0	3	2	2	0	0	0
 8	Between the Sheets	1	Shaken	Martini	martini_yellow	1	1	0	0	0	0	4	4	0	0	0
 9	Black Russian	1	On the Rocks	Rocks	rocks_brown	2	0	0	0	0	0	0	3	0	0	3
-10	Bloody Mary	1	On the Rocks, Popular, Highball	Highball	highball_red	0	0	1	0	0	0	0	4	4	3	0
+10	Bloody Mary	1	On the Rocks, Popular, Highball	Highball	bloody_mary	0	0	1	0	0	0	0	4	4	3	0
 11	Blow Job	1	Up	Shot	blowjob	5	0	0	0	0	0	0	3	0	0	3
 12	Boilermaker	1	Shooter	Tall	boilermaker	0	0	2	0	0	0	0	4	0	0	0
 13	Cafe Amore	1	Hot	Mug	mug_black	3	0	2	0	0	0	0	2	0	0	2
@@ -43,12 +43,12 @@ drinkId	drinkName	complete	categories	glass type	image	sweet	citrusy	bitter	herb
 42	Mai Tai	1	Shaken	Rocks	rocks_orange_red	3	4	1	0	1	2	2	3	0	0	0
 43	Manhattan	1	Shaken, Popular, Classic	Martini	martini_brown	1	0	4	0	0	0	0	4	0	0	0
 44	Margarita	1	On the Rocks, Popular, Tropical	Tall	tall_yellow	4	3	1	0	0	0	3	3	0	3	0
-45	Martinez	1	Shaken	Martini	--	1	2	4	2	0	0	0	4	0	0	0
-46	Midori Sour	1	On the Rocks	Rocks	--	4	4	0	0	0	2	4	1	0	0	0
-47	Mint Julep	1	Stirred	Rocks	--	3	0	3	0	4	0	1	2	0	0	0
-48	Mojito	1	Shaken, Popular	Collins	--	3	3	0	5	5	2	1	2	0	0	0
-49	Moscow Mule	1	Stirred	Mug	--	2	2	0	3	0	0	2	3	0	0	0
-50	Mudslide	1	On the Rocks, Frozen	Rocks	--	3	0	0	0	0	0	0	2	0	0	3
+45	Martinez	1	Shaken	Martini	martini_brown	1	2	4	2	0	0	0	4	0	0	0
+46	Midori Sour	1	On the Rocks	Rocks	rocks_green	4	4	0	0	0	2	4	1	0	0	0
+47	Mint Julep	1	Stirred	Rocks	mint_julep	3	0	3	0	4	0	1	2	0	0	0
+48	Mojito	1	Shaken, Popular	Collins	mojito	3	3	0	5	5	2	1	2	0	0	0
+49	Moscow Mule	1	Stirred	Mug	moscow_mule	2	2	0	3	0	0	2	3	0	0	0
+50	Mudslide	1	On the Rocks, Frozen	Rocks	mudslide	3	0	0	0	0	0	0	2	0	0	3
 51	Negroni	1	On the Rocks	Martini	martini_red	0	0	3	3	0	0	0	4	0	0	0
 52	Old-Fashioned	1	On the Rocks	Rocks	rocks_gold	2	1	2	1	0	0	0	3	0	0	0
 53	Orgasm	1	On the Rocks	Rocks	--	2	0	0	0	0	0	0	2	0	0	5
@@ -61,17 +61,17 @@ drinkId	drinkName	complete	categories	glass type	image	sweet	citrusy	bitter	herb
 60	Russian Quaalude	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 61	Rusty Nail	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 62	Sazerac	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
-63	Screwdriver	1	Highball, Popular	Highball	--	2	5	0	0	0	0	2	3	0	0	0
-64	Sex on the Beach	1	Highball	Highball	--	3	4	0	0	0	4	3	3	0	0	0
+63	Screwdriver	1	Highball, Popular	Highball	highball_orange	2	5	0	0	0	0	2	3	0	0	0
+64	Sex on the Beach	1	Highball	Highball	highball_red_orange	3	4	0	0	0	4	3	3	0	0	0
 65	Sidecar	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 66	Ski Lift	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 67	Slippery Nipple	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 68	Sneaky Pete	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 69	Tequila Fuego	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
-70	Tequila Sunrise	1	Stirred	Tall	--	3	4	1	0	0	0	3	3	0	0	0
+70	Tequila Sunrise	1	Stirred	Tall	highball_red_orange	3	4	1	0	0	0	3	3	0	0	0
 71	Toasted Almond	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 72	Tom and Jerry	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
-73	Tom Collins	1	Shaken	Tall	--	2	2	3	0	3	0	3	3	0	0	0
+73	Tom Collins	1	Shaken	Tall	highball_clear	2	2	3	0	3	0	3	3	0	0	0
 74	Warm Old-fashioned	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 75	White Russian	1	On the Rocks, Popular	Rocks	--	3	0	0	0	0	0	0	3	0	1	5
 76	Zombie	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
@@ -80,20 +80,20 @@ drinkId	drinkName	complete	categories	glass type	image	sweet	citrusy	bitter	herb
 79	Whiskey & Coke	1	On the Rocks, Popular, Highball	Highball	highball_brown	3	0	1	1	0	0	0	2	0	0	0
 80	Adios Motherfucker (AMF)	1	Stirred, Popular	Tall	tall_blue	1	0	2	0	0	0	2	4	0	1	0
 81	Amaretto Sour	1	On the Rocks, Highball	Highball	highball_yellow	3	3	0	0	0	0	2	2	0	0	0
-82	Oatmeal Cookie	1	Shaken	Shot	--	4	0	1	2	0	0	0	3	0	0	3
-83	Tokyo Tea	1	On the Rocks	Tall	--	3	1	0	0	0	4	1	4	0	0	0
+82	Oatmeal Cookie	1	Shaken	Shot	shot_creamy_brown	4	0	1	2	0	0	0	3	0	0	3
+83	Tokyo Tea	1	On the Rocks	Tall	tall_green	3	1	0	0	0	4	1	4	0	0	0
 84	Buttery Nipple	1	Shot	Shot	shot_brown	5	0	0	0	0	0	0	2	0	0	4
-85	Panty Dropper	1	On the Rocks, Highball	Highball	--	4	0	0	0	0	0	0	2	0	0	4
-86	Brave Bull	1	On the Rocks, Highball	Highball	--	3	0	0	1	0	0	0	0	2	0	3
-87	Singapore Sling	1	On the Rocks	Tall	--	2	2	0	2	0	3	3	3	0	0	0
-88	Screaming Orgasm	1	Shot	Shot	--	4	0	0	0	0	0	0	3	0	0	2
-89	Kool-Aid	1	On the Rocks, Highball	Highball	--	4	0	0	0	0	4	1	1	0	0	0
+85	Panty Dropper	1	On the Rocks, Highball	Highball	highball_red	4	0	0	0	0	0	0	2	0	0	4
+86	Brave Bull	1	On the Rocks, Highball	Highball	highball_brown	3	0	0	1	0	0	0	0	2	0	3
+87	Singapore Sling	1	On the Rocks	Tall	tall_red	2	2	0	2	0	3	3	3	0	0	0
+88	Screaming Orgasm	1	Shot	Shot	b52	4	0	0	0	0	0	0	3	0	0	2
+89	Kool-Aid	1	On the Rocks, Highball	Highball	highball_red	4	0	0	0	0	4	1	1	0	0	0
 90	Baileys & Coffee	1	Hot	Mug	mug_brown	3	0	2	0	0	0	0	2	0	0	3
-91	Bay Breeze	1	On the Rocks	Tall	--	3	1	0	0	0	3	0	3	0	0	0
-92	Bellini	1	Fizz	Wine	--	2	2	1	0	0	3	0	2	0	0	0
-93	Bloody Maria	1	On the Rocks	Tall	--	0	1	0	1	0	0	0	3	5	3	0
-94	Bloody Caesar	1	On the Rocks	Tall	--	0	1	1	2	0	0	0	3	4	2	0
-95	Blue Hawaiian	1	On the Rocks, Highball	Highball	--	4	1	0	0	0	5	2	4	0	0	0
+91	Bay Breeze	1	On the Rocks	Tall	highball_red_orange	3	1	0	0	0	3	0	3	0	0	0
+92	Bellini	1	Fizz	Wine	bellini	2	2	1	0	0	3	0	2	0	0	0
+93	Bloody Maria	1	On the Rocks	Tall	bloody_mary	0	1	0	1	0	0	0	3	5	3	0
+94	Bloody Caesar	1	On the Rocks	Tall	bloody_mary	0	1	1	2	0	0	0	3	4	2	0
+95	Blue Hawaiian	1	On the Rocks, Highball	Highball	tall_blue	4	1	0	0	0	5	2	4	0	0	0
 96	Whiskey Press	0	On the Rocks	--	--	0	0	0	0	0	0	0	0	0	0	0
 97	Bourbon Press	0	On the Rocks	--	--	0	0	0	0	0	0	0	0	0	0	0
 98	Vodka Press	0	On the Rocks	--	--	0	0	0	0	0	0	0	0	0	0	0
@@ -163,8 +163,8 @@ drinkId	drinkName	complete	categories	glass type	image	sweet	citrusy	bitter	herb
 162	Strawberry Margarita	0	On the Rocks, Tropical, Popular	Tall	tall_red	4	3	0	0	0	4	2	0	0	3	0
 163	Mexican Coffee	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 164	Melon Ball	1	On the Rocks, Highball	Highball	--	3	1	0	0	0	4	1	3	0	0	0
-165	Mind Eraser	1	On the Rocks, Highball	Highball	brain_hemorrhage	2	0	0	0	0	0	0	4	0	0	1
-166	Brain Hemorrhage	1	Shot	Shot	--	4	0	0	0	0	3	0	3	0	0	3
+165	Mind Eraser	1	On the Rocks, Highball	Highball	--	2	0	0	0	0	0	0	4	0	0	1
+166	Brain Hemorrhage	1	Shot	Shot	brain_hemorrhage	4	0	0	0	0	3	0	3	0	0	3
 167	Strawberry Pina Colada (Lava Flow)	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 168	--	0	--	--	--	0	0	0	0	0	0	0	0	0	0	0
 169	Prairie Fire	1	Shot	Shot	--	0	0	1	0	0	0	0	4	5	2	0

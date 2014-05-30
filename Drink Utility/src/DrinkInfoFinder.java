@@ -7,6 +7,14 @@ import java.util.Scanner;
 import java.util.Set;
 
 
+/**
+ * Searches Recipes file and produces a smaller version containing only recipes that are in use.
+ * 
+ * This program is no longer in use.
+ * 
+ * @author John L. Wilson
+ *
+ */
 public class DrinkInfoFinder {
 
     public static void main(String[] args) {

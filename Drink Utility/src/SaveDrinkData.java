@@ -2,6 +2,12 @@ import java.io.FileOutputStream;
 
 import com.onedrinkaway.db.DrinkData;
 
+/**
+ * Constructs a new DrinkData from database info and saves it to disc.
+ * 
+ * @author John L Wilson
+ *
+ */
 
 public class SaveDrinkData {
 

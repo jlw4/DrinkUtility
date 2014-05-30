@@ -14,8 +14,9 @@ import com.onedrinkaway.model.Drink;
 import com.onedrinkaway.model.DrinkInfo;
 
 /**
- * Parses text files and up uploads drink info to database
- * @author avalanche
+ * Parses text files and up uploads drink info to database.
+ *
+ * @author John L Wilson
  *
  */
 
@@ -24,20 +25,24 @@ public class UpdateDrinks {
     private static String recipes = "Recipes.txt";
     private static String drinks = "drinks.tsv";
     
-    // Drink schema: (id, name, glass, garnish, description, instructions, source,
+    // Drink schema: (id, name, glass, garnish, instructions, image,
     // sweet, citrusy, bitter, herbal, minty, fruity, sour, boosy, spicy, salty, creamy)
     // id is primary key
     
+    /**
+     * First searches recipes to ensure that every drink in drinks has a recipe.
+     * If all drinks have recipe, updates the the drinks table and prints the number of drinks.
+     * @param argv
+     */
     public static void main(String[] argv) {
-        
-        
         try {
             Set<String> drinkNames = getDrinkNames();
-            // now print any drinks that need info
-            findMissingRecipes(drinkNames);
-            // now update drinks
-            updateDrinks();
-            printNumDrinks();
+            // print drinks that need recipes
+            if (findMissingRecipes(drinkNames)) {
+                // update drinks if all drinks have recipes
+                updateDrinks();
+                printNumDrinks();
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -53,8 +58,8 @@ public class UpdateDrinks {
         System.out.println("We have " + rs.getInt(1) + " drinks in our database");
     }
     
-    // Prints all drink names missing recipes to console
-    private static void findMissingRecipes(Set<String> drinkNames) {
+    // 
+    private static boolean findMissingRecipes(Set<String> drinkNames) {
         try {
             Scanner sc = new Scanner(new File(recipes));
             while (sc.hasNextLine()){
@@ -68,6 +73,7 @@ public class UpdateDrinks {
         }
         for (String missing : drinkNames)
             System.out.println(missing);
+        return drinkNames.size() == 0;
     }
 
     // adds drink and drinkinfo to database
@@ -75,13 +81,7 @@ public class UpdateDrinks {
         try {
             Connection conn = DBConnection.getConnection();
             Statement stmt = conn.createStatement();
-            String sql = "DELETE FROM DRINK WHERE id=" + d.id;
-            stmt.executeUpdate(sql);
-            sql = "DELETE FROM CATEGORY WHERE drinkid=" + d.id;
-            stmt.executeUpdate(sql);
-            sql = "DELETE FROM INGREDIENT WHERE drinkid=" + d.id;
-            stmt.executeUpdate(sql);
-            sql = "INSERT INTO DRINK VALUES (" +
+            String sql = "INSERT INTO DRINK VALUES (" +
                          d.id + ", '" +
                          d.name + "', '" +
                          d.glass + "', '" +
@@ -144,6 +144,14 @@ public class UpdateDrinks {
    * Also enter debug mode, which doesn't write any data to disc
    */
   public static void updateDrinks() throws Exception {
+      Connection conn = DBConnection.getConnection();
+      Statement stmt = conn.createStatement();
+      CreateTables.dropCategory(stmt);
+      CreateTables.dropIngredient(stmt);
+      CreateTables.dropDrink(stmt);
+      CreateTables.createDrink(stmt);
+      CreateTables.createIngredient(stmt);
+      CreateTables.createCategory(stmt);
       Scanner sc = new Scanner(new File(drinks));
       sc.nextLine(); //throw away first line
       while (sc.hasNextLine()){
@@ -175,6 +183,12 @@ public class UpdateDrinks {
           }
       }
       sc.close();
+//      // Now remove ratings and favorites for drinks that may no longer exist
+//      String sql = "DELETE FROM favorite WHERE drinkid NOT IN ( SELECT id FROM DRINK )";
+//      stmt.executeUpdate(sql);
+//      sql = "DELETE FROM rating WHERE drinkid NOT IN ( SELECT id FROM DRINK )";
+//      stmt.executeUpdate(sql);
+      conn.close();
   }
   
   /**
