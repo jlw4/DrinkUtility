@@ -48,7 +48,7 @@ Garnish: No Garnish
 Pour all ingredients into a highball glass filled with ice cubes. Serve, unstirred.
 
 Creamcicle
-1.5 shot of Silver rum
+1.5 shot of Rum (Light)
 2 shots of Pina Colada Mix
 4 oz Orange Soda
 Garnish: No Garnish
@@ -81,12 +81,12 @@ Pour the rum & amaretto into an Irish coffee glass. Fill with hot coffee, top wi
 Surfer on Acid
 1/2 oz Jagermeister
 1/2 oz Malibu
-1/2 oz Pineapple juice
+1/2 oz Pineapple Juice
 Garnish: No Garnish
 Pour ingredients into a stainless steel shaker over ice & shake until completely cold. Strain into a large shot or old-fashioned glass & shoot.
 
 Joe Collins
-1 oz Scotch whisky
+1 oz Scotch Whisky
 2 oz Sweet & Sour Mix
 Cola
 Garnish: 1 cherry
@@ -871,10 +871,10 @@ Garnish: No Garnish
 Pour all ingredients into a shaker with ice. Shake & strain into a shot glass.
 
 Whiskey & 7 (7 & 7)
-2 oz. Seagrams 7 Whiskey
+2 oz. Whiskey
 Lemon-Lime Soda
 Garnish: No Garnish
-Pour the Seagrams 7 into a glass with ice. Fill it with lemon-lime soda.
+Pour the whiskey into a glass with ice. Fill it with lemon-lime soda.
 
 Nutty Irishman
 1 oz. Irish Cream
@@ -1437,33 +1437,33 @@ Pour Bourbon into a glass with ice. Fill it with cola.
 
 Bourbon & 7
 2 oz. Bourbon
-7-Up
+Lemon-Lime Soda
 Garnish: Lime Wedge (Optional)
-Pour Bourbon into a glass with ice. Fill it with 7-Up.
+Pour Bourbon into a glass with ice. Fill it with soda.
 
 Tequila & 7
 2 oz. Tequila
-7-Up
+Lemon-Lime Soda
 Garnish: Lime Wedge (Optional)
-Pour Tequila into a glass with ice. Fill it with 7-Up.
+Pour Tequila into a glass with ice. Fill it with soda.
 
 Vodka & 7
 2 oz. Vodka
-7-Up
+Lemon-Lime Soda
 Garnish: Lime Wedge (Optional)
-Pour vodka into a glass with ice. Fill it with 7-Up.
+Pour vodka into a glass with ice. Fill it with soda.
 
 Gin & 7
 2 oz. Gin
-7-Up
+Lemon-Lime Soda
 Garnish: Lime Wedge (Optional)
-Pour gin into a glass with ice. Fill it with 7-Up.
+Pour gin into a glass with ice. Fill it with soda.
 
 Rum & 7
 2 oz. Rum
-7-Up
+Lemon-Lime Soda
 Garnish: Lime Wedge (Optional)
-Pour rum into a glass with ice. Fill it with 7-Up.
+Pour rum into a glass with ice. Fill it with soda.
 
 Rum & OJ
 2 oz. Rum
