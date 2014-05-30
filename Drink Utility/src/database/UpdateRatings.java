@@ -19,7 +19,7 @@ public class UpdateRatings {
         
         try {
             Statement stmt = conn.createStatement();
-            //addNRatings(200, stmt, "testuser");
+            //addNRatings(200, stmt, "test1");
             printAllRatings(stmt);
         
         } catch (Exception e) {
@@ -34,7 +34,7 @@ public class UpdateRatings {
     public static void addNRatings(int n, Statement stmt, String user) {
         try {
             Random r = new Random();
-            for (int drinkid = 1; drinkid <= n; drinkid++) {
+            for (int drinkid = 100; drinkid <= n; drinkid++) {
                 String remSQL = "DELETE FROM RATING WHERE drinkid = " + drinkid +
                                 " AND userid = '" + user + "'";
                 stmt.executeUpdate(remSQL);
