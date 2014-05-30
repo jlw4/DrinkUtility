@@ -82,9 +82,8 @@ public class UpdateDrinks {
                          d.name + "', '" +
                          d.glass + "', '" +
                          di.garnish + "', '" +
-                         di.description + "', '" +
                          di.instructions + "', '" +
-                         di.source + "'";
+                         d.image + "'";
             for (int i = 0; i < d.attributes.length; i++) {
                 sql += ", " + d.attributes[i];
             }
@@ -162,7 +161,8 @@ public class UpdateDrinks {
               for (int i = 0; i < 11; i++) {
                   attributes[i] = Integer.parseInt(tokens[i + 5]);
               }
-              Drink d = new Drink(name, id, 3.0, attributes, cat, glass);
+              String image = tokens[16];
+              Drink d = new Drink(name, id, 3.0, attributes, cat, glass, image);
               DrinkInfo di = findDrinkInfo(d);
               if (di != null) {
                   System.out.println("adding " + d.name);
@@ -203,8 +203,6 @@ public class UpdateDrinks {
       Scanner sc = new Scanner(new File("RecipesFixed.txt"));
       List<String> lines = new ArrayList<String>();
       String line = sc.nextLine();
-      String genericDesc = "This is a really nice drink, we promise!";
-      String genericCit = "Cloude Strife";
       while (sc.hasNext()) {
           if (line.equals("")) {
               // found end of drink, process lines
@@ -220,7 +218,7 @@ public class UpdateDrinks {
                       ingr.add(lines.get(i));
                   }
                   
-                  DrinkInfo di = new DrinkInfo(ingr, genericDesc, garnish, instructions, genericCit, d.id);
+                  DrinkInfo di = new DrinkInfo(ingr, garnish, instructions, d.id);
                   sc.close();
                   return di;
               }

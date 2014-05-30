@@ -3,6 +3,14 @@ package database;
 import java.sql.Connection;
 import java.sql.Statement;
 
+/**
+ * Utility for dropping and creating tables
+ * 
+ * @author John L. Wilson
+ *
+ */
+
+@SuppressWarnings("unused")
 public class CreateTables {
     
     public static void main(String[] args) {
@@ -13,8 +21,8 @@ public class CreateTables {
         try {
             // get connection
             Statement stmt = conn.createStatement();
-//            dropAllTables(stmt);
-//            createAllTables(stmt);
+            dropDrink(stmt);
+            createDrink(stmt);
         
         } catch (Exception e) {
             e.printStackTrace();
@@ -86,9 +94,8 @@ public class CreateTables {
                     " name varchar(127), " +
                     " glass varchar(63), " +
                     " garnish varchar(63), " +
-                    " description varchar(511), " +
                     " instructions varchar(511), " +
-                    " source varchar(127), " +
+                    " image varchar(127), " +
                     " sweet INTEGER, " +
                     " citrusy INTEGER, " +
                     " bitter INTEGER, " +
@@ -106,6 +113,7 @@ public class CreateTables {
             e.printStackTrace();
         }
     }
+    
     
     private static void dropAllTables(Statement stmt) {
         dropDrink(stmt);
