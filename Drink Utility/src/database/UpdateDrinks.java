@@ -21,6 +21,9 @@ import com.onedrinkaway.model.DrinkInfo;
 
 public class UpdateDrinks {
     
+    private static String recipes = "Recipes.txt";
+    private static String drinks = "drinks.tsv";
+    
     // Drink schema: (id, name, glass, garnish, description, instructions, source,
     // sweet, citrusy, bitter, herbal, minty, fruity, sour, boosy, spicy, salty, creamy)
     // id is primary key
@@ -33,14 +36,14 @@ public class UpdateDrinks {
             // now print any drinks that need info
             findMissingRecipes(drinkNames);
             // now update drinks
-            //updateDrinks();
-            //printNumDrinks();
+            updateDrinks();
+            printNumDrinks();
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
     
-    @SuppressWarnings("unused")
+    
     private static void printNumDrinks() throws Exception {
         Connection conn = DBConnection.getConnection();
         Statement stmt = conn.createStatement();
@@ -53,7 +56,7 @@ public class UpdateDrinks {
     // Prints all drink names missing recipes to console
     private static void findMissingRecipes(Set<String> drinkNames) {
         try {
-            Scanner sc = new Scanner(new File("Recipes.txt"));
+            Scanner sc = new Scanner(new File(recipes));
             while (sc.hasNextLine()){
                 String line = sc.nextLine();
                 if (drinkNames.contains(line))
@@ -116,7 +119,7 @@ public class UpdateDrinks {
     private static Set<String> getDrinkNames() {
         Set<String> results = new HashSet<String>();
         try {
-            Scanner sc = new Scanner(new File("drinksrc.tsv"));
+            Scanner sc = new Scanner(new File(drinks));
             sc.nextLine(); //throw away first line
             while (sc.hasNextLine()){
                 String s = sc.nextLine();
@@ -141,7 +144,7 @@ public class UpdateDrinks {
    * Also enter debug mode, which doesn't write any data to disc
    */
   public static void updateDrinks() throws Exception {
-      Scanner sc = new Scanner(new File("drinksrc.tsv"));
+      Scanner sc = new Scanner(new File(drinks));
       sc.nextLine(); //throw away first line
       while (sc.hasNextLine()){
           String s = sc.nextLine();
@@ -157,12 +160,12 @@ public class UpdateDrinks {
                   cat.add(c);
               }
               String glass = tokens[4];
+              String image = tokens[5];
               // add attributes
               int[] attributes = new int[11];
               for (int i = 0; i < 11; i++) {
-                  attributes[i] = Integer.parseInt(tokens[i + 5]);
+                  attributes[i] = Integer.parseInt(tokens[i + 6]);
               }
-              String image = tokens[16];
               Drink d = new Drink(name, id, 3.0, attributes, cat, glass, image);
               DrinkInfo di = findDrinkInfo(d);
               if (di != null) {
@@ -201,7 +204,7 @@ public class UpdateDrinks {
    * Parses the master list of drink info, searching for drink info for a given drink
    */
   private static DrinkInfo findDrinkInfo(Drink d) throws Exception {
-      Scanner sc = new Scanner(new File("RecipesFixed.txt"));
+      Scanner sc = new Scanner(new File(recipes));
       List<String> lines = new ArrayList<String>();
       String line = sc.nextLine();
       while (sc.hasNext()) {
