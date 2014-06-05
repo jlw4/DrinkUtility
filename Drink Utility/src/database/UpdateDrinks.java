@@ -183,36 +183,10 @@ public class UpdateDrinks {
           }
       }
       sc.close();
-//      // Now remove ratings and favorites for drinks that may no longer exist
-//      String sql = "DELETE FROM favorite WHERE drinkid NOT IN ( SELECT id FROM DRINK )";
-//      stmt.executeUpdate(sql);
-//      sql = "DELETE FROM rating WHERE drinkid NOT IN ( SELECT id FROM DRINK )";
-//      stmt.executeUpdate(sql);
       conn.close();
   }
   
-  /**
-   * Attempts to remove an unnecessary characters from an ingredient String, and adds it
-   * to the set of unique ingredients
-   */
-  private static String stripPortions(String ingredient) {
-      // search for uppercase character
-      int i = 0;
-      while (!Character.isUpperCase(ingredient.charAt(i)))
-          i++;
-      // remove first part of String, getting rid of quantity
-      ingredient = ingredient.substring(i);
-      // remove optional if it is there
-      if (ingredient.contains(" (Optional)")) {
-          ingredient = ingredient.substring(0, ingredient.length() - 10);
-      }
-      // check for splash of / dash of etc
-      if (ingredient.contains(" of "))
-          ingredient = ingredient.split(" of ")[1];
-      ingredient = ingredient.trim();
-      // ingredient is finally ready to add
-      return ingredient;
-  }
+
   
   /**
    * Parses the master list of drink info, searching for drink info for a given drink
@@ -248,6 +222,29 @@ public class UpdateDrinks {
       }
       sc.close();
       return null;
+  }
+  
+  /**
+   * Attempts to remove an unnecessary characters from an ingredient String, and adds it
+   * to the set of unique ingredients
+   */
+  private static String stripPortions(String ingredient) {
+      // search for uppercase character
+      int i = 0;
+      while (!Character.isUpperCase(ingredient.charAt(i)))
+          i++;
+      // remove first part of String, getting rid of quantity
+      ingredient = ingredient.substring(i);
+      // remove optional if it is there
+      if (ingredient.contains(" (Optional)")) {
+          ingredient = ingredient.substring(0, ingredient.length() - 10);
+      }
+      // check for splash of / dash of etc
+      if (ingredient.contains(" of "))
+          ingredient = ingredient.split(" of ")[1];
+      ingredient = ingredient.trim();
+      // ingredient is finally ready to add
+      return ingredient;
   }
 
     
